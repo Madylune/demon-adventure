@@ -1,0 +1,8089 @@
+fileFormatVersion: 2
+guid: 8e7f15edfc78c41808da88f7233e120e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8767141388392557882
+    second: ZRPGcastle_0
+  - first:
+      213: -4356316106380815681
+    second: ZRPGcastle_1
+  - first:
+      213: 8637371900719909311
+    second: ZRPGcastle_2
+  - first:
+      213: -958596607562129015
+    second: ZRPGcastle_3
+  - first:
+      213: 38284936514156088
+    second: ZRPGcastle_4
+  - first:
+      213: -5219894408773517929
+    second: ZRPGcastle_5
+  - first:
+      213: 7180854016982985574
+    second: ZRPGcastle_6
+  - first:
+      213: -199572487438200374
+    second: ZRPGcastle_7
+  - first:
+      213: -1394542988950143790
+    second: ZRPGcastle_8
+  - first:
+      213: 8770238615995028451
+    second: ZRPGcastle_9
+  - first:
+      213: -7533353737177112817
+    second: ZRPGcastle_10
+  - first:
+      213: 3037212584351923728
+    second: ZRPGcastle_11
+  - first:
+      213: 3515014052125031430
+    second: ZRPGcastle_12
+  - first:
+      213: 6903352253906327139
+    second: ZRPGcastle_13
+  - first:
+      213: 3037059773642738537
+    second: ZRPGcastle_14
+  - first:
+      213: 4825277554011811793
+    second: ZRPGcastle_15
+  - first:
+      213: -1919976924051029788
+    second: ZRPGcastle_16
+  - first:
+      213: 3970031601379296521
+    second: ZRPGcastle_17
+  - first:
+      213: 6605936549102218816
+    second: ZRPGcastle_18
+  - first:
+      213: 7975429533341968540
+    second: ZRPGcastle_19
+  - first:
+      213: 3452626206924869546
+    second: ZRPGcastle_20
+  - first:
+      213: 4542794205536838606
+    second: ZRPGcastle_21
+  - first:
+      213: 7983243086982306204
+    second: ZRPGcastle_22
+  - first:
+      213: -7439200918932814648
+    second: ZRPGcastle_23
+  - first:
+      213: -5385773859032403619
+    second: ZRPGcastle_24
+  - first:
+      213: -9110965866818691871
+    second: ZRPGcastle_25
+  - first:
+      213: -3101627846125539845
+    second: ZRPGcastle_26
+  - first:
+      213: 9106615834616604889
+    second: ZRPGcastle_27
+  - first:
+      213: 6037144261435185323
+    second: ZRPGcastle_28
+  - first:
+      213: -5836143345782072336
+    second: ZRPGcastle_29
+  - first:
+      213: 5929634773267184460
+    second: ZRPGcastle_30
+  - first:
+      213: -6524983181680996055
+    second: ZRPGcastle_31
+  - first:
+      213: -8548322862040798938
+    second: ZRPGcastle_32
+  - first:
+      213: 5736509672519733510
+    second: ZRPGcastle_33
+  - first:
+      213: -3541403760992354895
+    second: ZRPGcastle_34
+  - first:
+      213: -590867736509791918
+    second: ZRPGcastle_35
+  - first:
+      213: 4676925280365403953
+    second: ZRPGcastle_36
+  - first:
+      213: 6223508263920738299
+    second: ZRPGcastle_37
+  - first:
+      213: -5794069015747383403
+    second: ZRPGcastle_38
+  - first:
+      213: 359979035286508916
+    second: ZRPGcastle_39
+  - first:
+      213: 1375566834037549293
+    second: ZRPGcastle_40
+  - first:
+      213: 5851814610047477256
+    second: ZRPGcastle_41
+  - first:
+      213: -220712067439849385
+    second: ZRPGcastle_42
+  - first:
+      213: 1916023826152838079
+    second: ZRPGcastle_43
+  - first:
+      213: -8689366528381221006
+    second: ZRPGcastle_44
+  - first:
+      213: -1725424568218520467
+    second: ZRPGcastle_45
+  - first:
+      213: 4386926979067678053
+    second: ZRPGcastle_46
+  - first:
+      213: 6478065689711525238
+    second: ZRPGcastle_47
+  - first:
+      213: -4180434719733978384
+    second: ZRPGcastle_48
+  - first:
+      213: 7343431610986552676
+    second: ZRPGcastle_49
+  - first:
+      213: -1312236689811988914
+    second: ZRPGcastle_50
+  - first:
+      213: -8921680573058367666
+    second: ZRPGcastle_51
+  - first:
+      213: -591877474725398749
+    second: ZRPGcastle_52
+  - first:
+      213: -3051428927313204925
+    second: ZRPGcastle_53
+  - first:
+      213: 7128110286340650486
+    second: ZRPGcastle_54
+  - first:
+      213: 364729414978739625
+    second: ZRPGcastle_55
+  - first:
+      213: -574897759267668950
+    second: ZRPGcastle_56
+  - first:
+      213: 5213394170886231267
+    second: ZRPGcastle_57
+  - first:
+      213: 1036491045714393726
+    second: ZRPGcastle_58
+  - first:
+      213: 5872357967312840023
+    second: ZRPGcastle_59
+  - first:
+      213: 4495054148131098832
+    second: ZRPGcastle_60
+  - first:
+      213: 8600535490438039318
+    second: ZRPGcastle_61
+  - first:
+      213: 8330603552871269210
+    second: ZRPGcastle_62
+  - first:
+      213: 7320446551520589180
+    second: ZRPGcastle_63
+  - first:
+      213: 4455566970915264689
+    second: ZRPGcastle_64
+  - first:
+      213: 8346857892332628698
+    second: ZRPGcastle_65
+  - first:
+      213: 1004663214494275622
+    second: ZRPGcastle_66
+  - first:
+      213: 8061115695677711392
+    second: ZRPGcastle_67
+  - first:
+      213: 2105441072905739075
+    second: ZRPGcastle_68
+  - first:
+      213: -222135723850449304
+    second: ZRPGcastle_69
+  - first:
+      213: 6676336984334485445
+    second: ZRPGcastle_70
+  - first:
+      213: -4502971239937088958
+    second: ZRPGcastle_71
+  - first:
+      213: -6986194572468090486
+    second: ZRPGcastle_72
+  - first:
+      213: 593442698944313476
+    second: ZRPGcastle_73
+  - first:
+      213: -4422810213608965342
+    second: ZRPGcastle_74
+  - first:
+      213: -371579033778357893
+    second: ZRPGcastle_75
+  - first:
+      213: -6402072363104320070
+    second: ZRPGcastle_76
+  - first:
+      213: 9025126988622889809
+    second: ZRPGcastle_77
+  - first:
+      213: 7070465578943745269
+    second: ZRPGcastle_78
+  - first:
+      213: -3197220188410352630
+    second: ZRPGcastle_79
+  - first:
+      213: -4510341627317749821
+    second: ZRPGcastle_80
+  - first:
+      213: -1634290386414807684
+    second: ZRPGcastle_81
+  - first:
+      213: 7838363478308814975
+    second: ZRPGcastle_82
+  - first:
+      213: 8820381522445545578
+    second: ZRPGcastle_83
+  - first:
+      213: 9108142667122371144
+    second: ZRPGcastle_84
+  - first:
+      213: -4007649281156020792
+    second: ZRPGcastle_85
+  - first:
+      213: 8024334581846056717
+    second: ZRPGcastle_86
+  - first:
+      213: 5085632189452125676
+    second: ZRPGcastle_87
+  - first:
+      213: -238142007066645721
+    second: ZRPGcastle_88
+  - first:
+      213: -3514743583222914222
+    second: ZRPGcastle_89
+  - first:
+      213: -1246445132772022432
+    second: ZRPGcastle_90
+  - first:
+      213: 1829048914217651434
+    second: ZRPGcastle_91
+  - first:
+      213: -1068911343534492984
+    second: ZRPGcastle_92
+  - first:
+      213: -3461384336627168122
+    second: ZRPGcastle_93
+  - first:
+      213: -6219255892075219275
+    second: ZRPGcastle_94
+  - first:
+      213: 433650044995981090
+    second: ZRPGcastle_95
+  - first:
+      213: -2946251719558772389
+    second: ZRPGcastle_96
+  - first:
+      213: -711102682517910619
+    second: ZRPGcastle_97
+  - first:
+      213: 8918268095607136210
+    second: ZRPGcastle_98
+  - first:
+      213: -8644311088830430050
+    second: ZRPGcastle_99
+  - first:
+      213: 4960207806525600970
+    second: ZRPGcastle_100
+  - first:
+      213: 6844291396763155168
+    second: ZRPGcastle_101
+  - first:
+      213: -1999281132800266257
+    second: ZRPGcastle_102
+  - first:
+      213: 883235264656772882
+    second: ZRPGcastle_103
+  - first:
+      213: 8212703487436637463
+    second: ZRPGcastle_104
+  - first:
+      213: -5096567282931065519
+    second: ZRPGcastle_105
+  - first:
+      213: -6269611346735133744
+    second: ZRPGcastle_106
+  - first:
+      213: -5009154414501957893
+    second: ZRPGcastle_107
+  - first:
+      213: -1653066469287762441
+    second: ZRPGcastle_108
+  - first:
+      213: -4500258277257665031
+    second: ZRPGcastle_109
+  - first:
+      213: 6582180574403370903
+    second: ZRPGcastle_110
+  - first:
+      213: -2394205254144685040
+    second: ZRPGcastle_111
+  - first:
+      213: 5301686872330815465
+    second: ZRPGcastle_112
+  - first:
+      213: 2871247816298749871
+    second: ZRPGcastle_113
+  - first:
+      213: -7685423848068408890
+    second: ZRPGcastle_114
+  - first:
+      213: 2764156447835535368
+    second: ZRPGcastle_115
+  - first:
+      213: -4411789626194645983
+    second: ZRPGcastle_116
+  - first:
+      213: 5270267686282154410
+    second: ZRPGcastle_117
+  - first:
+      213: -4178810969147519968
+    second: ZRPGcastle_118
+  - first:
+      213: -5625708486052277614
+    second: ZRPGcastle_119
+  - first:
+      213: 1306899104150286131
+    second: ZRPGcastle_120
+  - first:
+      213: 511024726796522687
+    second: ZRPGcastle_121
+  - first:
+      213: -7311214487003672465
+    second: ZRPGcastle_122
+  - first:
+      213: -29968425665252568
+    second: ZRPGcastle_123
+  - first:
+      213: 3852443261368977867
+    second: ZRPGcastle_124
+  - first:
+      213: 3027411739500526693
+    second: ZRPGcastle_125
+  - first:
+      213: -8018929611454484059
+    second: ZRPGcastle_126
+  - first:
+      213: -4839637004525643026
+    second: ZRPGcastle_127
+  - first:
+      213: 8937925328419233826
+    second: ZRPGcastle_128
+  - first:
+      213: 5438524394164998179
+    second: ZRPGcastle_129
+  - first:
+      213: -1686520791885947351
+    second: ZRPGcastle_130
+  - first:
+      213: 6032958101360363254
+    second: ZRPGcastle_131
+  - first:
+      213: 3560024888612904572
+    second: ZRPGcastle_132
+  - first:
+      213: -1488743820069275135
+    second: ZRPGcastle_133
+  - first:
+      213: -661588090166638403
+    second: ZRPGcastle_134
+  - first:
+      213: 209126786092662565
+    second: ZRPGcastle_135
+  - first:
+      213: 2560494019692077054
+    second: ZRPGcastle_136
+  - first:
+      213: -1156809646418006940
+    second: ZRPGcastle_137
+  - first:
+      213: 1627865441078201482
+    second: ZRPGcastle_138
+  - first:
+      213: -4587389104930025194
+    second: ZRPGcastle_139
+  - first:
+      213: 6994343542763643613
+    second: ZRPGcastle_140
+  - first:
+      213: -309523722361211227
+    second: ZRPGcastle_141
+  - first:
+      213: 5215351383280353652
+    second: ZRPGcastle_142
+  - first:
+      213: -3642687687838795651
+    second: ZRPGcastle_143
+  - first:
+      213: 2498613803988111501
+    second: ZRPGcastle_144
+  - first:
+      213: -2882670125160770999
+    second: ZRPGcastle_145
+  - first:
+      213: 7675060479616884369
+    second: ZRPGcastle_146
+  - first:
+      213: -4708623859310644662
+    second: ZRPGcastle_147
+  - first:
+      213: 883711637219114834
+    second: ZRPGcastle_148
+  - first:
+      213: -2613400060333321249
+    second: ZRPGcastle_149
+  - first:
+      213: 4112102456933615655
+    second: ZRPGcastle_150
+  - first:
+      213: -5540830074067122776
+    second: ZRPGcastle_151
+  - first:
+      213: 8984967874319335901
+    second: ZRPGcastle_152
+  - first:
+      213: 3377267710537023647
+    second: ZRPGcastle_153
+  - first:
+      213: -5381570289291074402
+    second: ZRPGcastle_154
+  - first:
+      213: 169017117751413192
+    second: ZRPGcastle_155
+  - first:
+      213: -1573097774878487688
+    second: ZRPGcastle_156
+  - first:
+      213: -3912822271162761630
+    second: ZRPGcastle_157
+  - first:
+      213: -6219675512781663247
+    second: ZRPGcastle_158
+  - first:
+      213: -3759869702039496661
+    second: ZRPGcastle_159
+  - first:
+      213: -5241519835993544342
+    second: ZRPGcastle_160
+  - first:
+      213: -4879238786428398516
+    second: ZRPGcastle_161
+  - first:
+      213: 7686319601719691323
+    second: ZRPGcastle_162
+  - first:
+      213: 1988062219238675353
+    second: ZRPGcastle_163
+  - first:
+      213: -8770154734740585482
+    second: ZRPGcastle_164
+  - first:
+      213: 7032818926306463041
+    second: ZRPGcastle_165
+  - first:
+      213: 2501568233748195501
+    second: ZRPGcastle_166
+  - first:
+      213: 8978899030336718889
+    second: ZRPGcastle_167
+  - first:
+      213: -3355456382223538939
+    second: ZRPGcastle_168
+  - first:
+      213: 996495594304262866
+    second: ZRPGcastle_169
+  - first:
+      213: -1088239276862694533
+    second: ZRPGcastle_170
+  - first:
+      213: 4043808274000221799
+    second: ZRPGcastle_171
+  - first:
+      213: -1765459872703933613
+    second: ZRPGcastle_172
+  - first:
+      213: 1249775112452101741
+    second: ZRPGcastle_173
+  - first:
+      213: -3439239053826744092
+    second: ZRPGcastle_174
+  - first:
+      213: 1696056776970106909
+    second: ZRPGcastle_175
+  - first:
+      213: -15823044892487127
+    second: ZRPGcastle_176
+  - first:
+      213: -3328969207622281045
+    second: ZRPGcastle_177
+  - first:
+      213: -322979827204707326
+    second: ZRPGcastle_178
+  - first:
+      213: -4728952264300445026
+    second: ZRPGcastle_179
+  - first:
+      213: -2043319260567756900
+    second: ZRPGcastle_180
+  - first:
+      213: 7769161886133190298
+    second: ZRPGcastle_181
+  - first:
+      213: -7923808211183433975
+    second: ZRPGcastle_182
+  - first:
+      213: -5894309204700207419
+    second: ZRPGcastle_183
+  - first:
+      213: -1163705346738393700
+    second: ZRPGcastle_184
+  - first:
+      213: -6518121676467287372
+    second: ZRPGcastle_185
+  - first:
+      213: -4682010470060632617
+    second: ZRPGcastle_186
+  - first:
+      213: 3477775453265753632
+    second: ZRPGcastle_187
+  - first:
+      213: 8876349941591114521
+    second: ZRPGcastle_188
+  - first:
+      213: -4092438289334796288
+    second: ZRPGcastle_189
+  - first:
+      213: 4547585290710296583
+    second: ZRPGcastle_190
+  - first:
+      213: -6976586414494110921
+    second: ZRPGcastle_191
+  - first:
+      213: 8640946788881776747
+    second: ZRPGcastle_192
+  - first:
+      213: -8165751191806209778
+    second: ZRPGcastle_193
+  - first:
+      213: 6843556306564289541
+    second: ZRPGcastle_194
+  - first:
+      213: 8962879173222217681
+    second: ZRPGcastle_195
+  - first:
+      213: 157194007682280834
+    second: ZRPGcastle_196
+  - first:
+      213: -352933058416430533
+    second: ZRPGcastle_197
+  - first:
+      213: -7804659231393640351
+    second: ZRPGcastle_198
+  - first:
+      213: -5883022980820160669
+    second: ZRPGcastle_199
+  - first:
+      213: 129635149508070142
+    second: ZRPGcastle_200
+  - first:
+      213: 3888931536510779019
+    second: ZRPGcastle_201
+  - first:
+      213: 17954960965432036
+    second: ZRPGcastle_202
+  - first:
+      213: 6007877611851793170
+    second: ZRPGcastle_203
+  - first:
+      213: -6480841172299631096
+    second: ZRPGcastle_204
+  - first:
+      213: -8932439065048263729
+    second: ZRPGcastle_205
+  - first:
+      213: 6698654497029441576
+    second: ZRPGcastle_206
+  - first:
+      213: -4100231208274629102
+    second: ZRPGcastle_207
+  - first:
+      213: -7547005622486941786
+    second: ZRPGcastle_208
+  - first:
+      213: 1413650869398049511
+    second: ZRPGcastle_209
+  - first:
+      213: 5598573229510108152
+    second: ZRPGcastle_210
+  - first:
+      213: 6616343261361368706
+    second: ZRPGcastle_211
+  - first:
+      213: -2645710933003823386
+    second: ZRPGcastle_212
+  - first:
+      213: 2800264834387619896
+    second: ZRPGcastle_213
+  - first:
+      213: 9183128110760987516
+    second: ZRPGcastle_214
+  - first:
+      213: 8799686418432246576
+    second: ZRPGcastle_215
+  - first:
+      213: 7671544098696293683
+    second: ZRPGcastle_216
+  - first:
+      213: 7828777461264708102
+    second: ZRPGcastle_217
+  - first:
+      213: -3391966209408478831
+    second: ZRPGcastle_218
+  - first:
+      213: 5519987582637098276
+    second: ZRPGcastle_219
+  - first:
+      213: -6995176570318909299
+    second: ZRPGcastle_220
+  - first:
+      213: 633418545522420188
+    second: ZRPGcastle_221
+  - first:
+      213: 6449067319749694312
+    second: ZRPGcastle_222
+  - first:
+      213: 882840782864917821
+    second: ZRPGcastle_223
+  - first:
+      213: -5858820315385368895
+    second: ZRPGcastle_224
+  - first:
+      213: -2284377933411849581
+    second: ZRPGcastle_225
+  - first:
+      213: 5468326880102145848
+    second: ZRPGcastle_226
+  - first:
+      213: 729303877165887698
+    second: ZRPGcastle_227
+  - first:
+      213: 6959299414451009917
+    second: ZRPGcastle_228
+  - first:
+      213: -9127185848026317360
+    second: ZRPGcastle_229
+  - first:
+      213: 8655874939092261727
+    second: ZRPGcastle_230
+  - first:
+      213: 1587987846908668065
+    second: ZRPGcastle_231
+  - first:
+      213: 4081654380405114507
+    second: ZRPGcastle_232
+  - first:
+      213: 5592321258180822937
+    second: ZRPGcastle_233
+  - first:
+      213: -2523138197050885955
+    second: ZRPGcastle_234
+  - first:
+      213: 121860634777958521
+    second: ZRPGcastle_235
+  - first:
+      213: 2032443717552091488
+    second: ZRPGcastle_236
+  - first:
+      213: 8740369023693085832
+    second: ZRPGcastle_237
+  - first:
+      213: -425554362799891876
+    second: ZRPGcastle_238
+  - first:
+      213: 6789839084593147278
+    second: ZRPGcastle_239
+  - first:
+      213: 2797517452124127166
+    second: ZRPGcastle_240
+  - first:
+      213: -6593604438305008440
+    second: ZRPGcastle_241
+  - first:
+      213: -2508931791630640030
+    second: ZRPGcastle_242
+  - first:
+      213: -3846280414477699540
+    second: ZRPGcastle_243
+  - first:
+      213: 1769132385456296057
+    second: ZRPGcastle_244
+  - first:
+      213: -8359527042543601529
+    second: ZRPGcastle_245
+  - first:
+      213: 3774163382018923337
+    second: ZRPGcastle_246
+  - first:
+      213: 7488380007384119636
+    second: ZRPGcastle_247
+  - first:
+      213: -8505632022249236316
+    second: ZRPGcastle_248
+  - first:
+      213: -435621512631651248
+    second: ZRPGcastle_249
+  - first:
+      213: -5984484803536581291
+    second: ZRPGcastle_250
+  - first:
+      213: -8487349858204843617
+    second: ZRPGcastle_251
+  - first:
+      213: -530950582864935379
+    second: ZRPGcastle_252
+  - first:
+      213: -5334449134943403829
+    second: ZRPGcastle_253
+  - first:
+      213: -3340131799647878334
+    second: ZRPGcastle_254
+  - first:
+      213: -8508687446898409277
+    second: ZRPGcastle_255
+  - first:
+      213: -4953559387448785601
+    second: ZRPGcastle_256
+  - first:
+      213: -1837133619124137169
+    second: ZRPGcastle_257
+  - first:
+      213: -1665465814220214672
+    second: ZRPGcastle_258
+  - first:
+      213: -1728789116539807289
+    second: ZRPGcastle_259
+  - first:
+      213: -6377792187707750374
+    second: ZRPGcastle_260
+  - first:
+      213: -6905359703613762070
+    second: ZRPGcastle_261
+  - first:
+      213: 3270305748544362249
+    second: ZRPGcastle_262
+  - first:
+      213: -7513542227196688003
+    second: ZRPGcastle_263
+  - first:
+      213: -4254766827341310072
+    second: ZRPGcastle_264
+  - first:
+      213: 7326183678219761521
+    second: ZRPGcastle_265
+  - first:
+      213: 65738086867896405
+    second: ZRPGcastle_266
+  - first:
+      213: -1749244954316481252
+    second: ZRPGcastle_267
+  - first:
+      213: 951517919145051895
+    second: ZRPGcastle_268
+  - first:
+      213: -4352154675962518880
+    second: ZRPGcastle_269
+  - first:
+      213: -1641351647163366142
+    second: ZRPGcastle_270
+  - first:
+      213: -7641360556005503749
+    second: ZRPGcastle_271
+  - first:
+      213: 1568862970467330464
+    second: ZRPGcastle_272
+  - first:
+      213: -2495161290841187683
+    second: ZRPGcastle_273
+  - first:
+      213: 4505986623729498662
+    second: ZRPGcastle_274
+  - first:
+      213: -8550634933019165028
+    second: ZRPGcastle_275
+  - first:
+      213: -7728736140131940389
+    second: ZRPGcastle_276
+  - first:
+      213: 8411643879477585743
+    second: ZRPGcastle_277
+  - first:
+      213: 8383424185421224704
+    second: ZRPGcastle_278
+  - first:
+      213: 254126577327863927
+    second: ZRPGcastle_279
+  - first:
+      213: 8554146837133290059
+    second: ZRPGcastle_280
+  - first:
+      213: 3684397590410100845
+    second: ZRPGcastle_281
+  - first:
+      213: 7227882532794807049
+    second: ZRPGcastle_282
+  - first:
+      213: 3462214646002586869
+    second: ZRPGcastle_283
+  - first:
+      213: -5802738694437228901
+    second: ZRPGcastle_284
+  - first:
+      213: 5718294926182970593
+    second: ZRPGcastle_285
+  - first:
+      213: -3421227199412589944
+    second: ZRPGcastle_286
+  - first:
+      213: -7778240094405053137
+    second: ZRPGcastle_287
+  - first:
+      213: -5737784553027916226
+    second: ZRPGcastle_288
+  - first:
+      213: 4467026661661706807
+    second: ZRPGcastle_289
+  - first:
+      213: -4494977264649340230
+    second: ZRPGcastle_290
+  - first:
+      213: 4256692958882005976
+    second: ZRPGcastle_291
+  - first:
+      213: 1254103625340723516
+    second: ZRPGcastle_292
+  - first:
+      213: 1703825747992071932
+    second: ZRPGcastle_293
+  - first:
+      213: 85016689254522430
+    second: ZRPGcastle_294
+  - first:
+      213: 1090282459100702408
+    second: ZRPGcastle_295
+  - first:
+      213: 1538061223141612574
+    second: ZRPGcastle_296
+  - first:
+      213: -45736908354995772
+    second: ZRPGcastle_297
+  - first:
+      213: -4955075001853036977
+    second: ZRPGcastle_298
+  - first:
+      213: 7998441366742143878
+    second: ZRPGcastle_299
+  - first:
+      213: -595381418087897147
+    second: ZRPGcastle_300
+  - first:
+      213: 960446750709276890
+    second: ZRPGcastle_301
+  - first:
+      213: 7812315385614212345
+    second: ZRPGcastle_302
+  - first:
+      213: -395663796670275430
+    second: ZRPGcastle_303
+  - first:
+      213: 4731929420506334041
+    second: ZRPGcastle_304
+  - first:
+      213: -2206526979675903309
+    second: ZRPGcastle_305
+  - first:
+      213: 7172653559877738819
+    second: ZRPGcastle_306
+  - first:
+      213: -8444467018658747381
+    second: ZRPGcastle_307
+  - first:
+      213: -2574549550703946588
+    second: ZRPGcastle_308
+  - first:
+      213: 5230653129040143188
+    second: ZRPGcastle_309
+  - first:
+      213: 5880150504408480457
+    second: ZRPGcastle_310
+  - first:
+      213: 6388307155209800700
+    second: ZRPGcastle_311
+  - first:
+      213: 3960643959285987925
+    second: ZRPGcastle_312
+  - first:
+      213: 7871855369537470864
+    second: ZRPGcastle_313
+  - first:
+      213: -3705792524337823658
+    second: ZRPGcastle_314
+  - first:
+      213: 5468423361566524693
+    second: ZRPGcastle_315
+  - first:
+      213: -452853728169907908
+    second: ZRPGcastle_316
+  - first:
+      213: 2266784595975010935
+    second: ZRPGcastle_317
+  - first:
+      213: 8451401855955509446
+    second: ZRPGcastle_318
+  - first:
+      213: -2006323684967918741
+    second: ZRPGcastle_319
+  - first:
+      213: 8668834178312251602
+    second: ZRPGcastle_320
+  - first:
+      213: 7692772541219666987
+    second: ZRPGcastle_321
+  - first:
+      213: 8389730787199656950
+    second: ZRPGcastle_322
+  - first:
+      213: -1611071407381425457
+    second: ZRPGcastle_323
+  - first:
+      213: -4592135011566668534
+    second: ZRPGcastle_324
+  - first:
+      213: -2445866785327528505
+    second: ZRPGcastle_325
+  - first:
+      213: 7340076550297435181
+    second: ZRPGcastle_326
+  - first:
+      213: 2407658197732692764
+    second: ZRPGcastle_327
+  - first:
+      213: -7454129088002941355
+    second: ZRPGcastle_328
+  - first:
+      213: 1449593174990162702
+    second: ZRPGcastle_329
+  - first:
+      213: 6479730436383923857
+    second: ZRPGcastle_330
+  - first:
+      213: -3902642361714602888
+    second: ZRPGcastle_331
+  - first:
+      213: 9125857940434438430
+    second: ZRPGcastle_332
+  - first:
+      213: 6422873099304310026
+    second: ZRPGcastle_333
+  - first:
+      213: 4105175078471124229
+    second: ZRPGcastle_334
+  - first:
+      213: -6733323690667105279
+    second: ZRPGcastle_335
+  - first:
+      213: 439820401867246878
+    second: ZRPGcastle_336
+  - first:
+      213: -3031820688192138820
+    second: ZRPGcastle_337
+  - first:
+      213: -3340852976035344083
+    second: ZRPGcastle_338
+  - first:
+      213: 308040412770203794
+    second: ZRPGcastle_339
+  - first:
+      213: 2150986953087471686
+    second: ZRPGcastle_340
+  - first:
+      213: -707506987192618488
+    second: ZRPGcastle_341
+  - first:
+      213: -1288035772878235136
+    second: ZRPGcastle_342
+  - first:
+      213: 8682315942481368347
+    second: ZRPGcastle_343
+  - first:
+      213: 4593333652824648171
+    second: ZRPGcastle_344
+  - first:
+      213: -6352663301527200534
+    second: ZRPGcastle_345
+  - first:
+      213: 3483762371560343388
+    second: ZRPGcastle_346
+  - first:
+      213: 4680479516153667851
+    second: ZRPGcastle_347
+  - first:
+      213: -6972447412054142300
+    second: ZRPGcastle_348
+  - first:
+      213: -6097449553203133618
+    second: ZRPGcastle_349
+  - first:
+      213: 2986287316150760352
+    second: ZRPGcastle_350
+  - first:
+      213: 8274597690970609748
+    second: ZRPGcastle_351
+  - first:
+      213: 7241445971839086385
+    second: ZRPGcastle_352
+  - first:
+      213: -7154887662662971180
+    second: ZRPGcastle_353
+  - first:
+      213: -5683918458619459605
+    second: ZRPGcastle_354
+  - first:
+      213: 2349622636944167704
+    second: ZRPGcastle_355
+  - first:
+      213: -1919502504333596832
+    second: ZRPGcastle_356
+  - first:
+      213: -7734330692875507541
+    second: ZRPGcastle_357
+  - first:
+      213: -1061913774901386448
+    second: ZRPGcastle_358
+  - first:
+      213: 3072050730581129325
+    second: ZRPGcastle_359
+  - first:
+      213: 6909452399274645471
+    second: ZRPGcastle_360
+  - first:
+      213: -740166991323525592
+    second: ZRPGcastle_361
+  - first:
+      213: -266443754180133233
+    second: ZRPGcastle_362
+  - first:
+      213: -6703549426309253659
+    second: ZRPGcastle_363
+  - first:
+      213: 3398072717693961859
+    second: ZRPGcastle_364
+  - first:
+      213: -5032721704122772405
+    second: ZRPGcastle_365
+  - first:
+      213: 4369044333742513570
+    second: ZRPGcastle_366
+  - first:
+      213: -2834558621485321370
+    second: ZRPGcastle_367
+  - first:
+      213: -3683536975719508238
+    second: ZRPGcastle_368
+  - first:
+      213: -431725836953338723
+    second: ZRPGcastle_369
+  - first:
+      213: -750725016080647055
+    second: ZRPGcastle_370
+  - first:
+      213: -9097859563962176723
+    second: ZRPGcastle_371
+  - first:
+      213: 8304160293263739224
+    second: ZRPGcastle_372
+  - first:
+      213: -8026572764742586494
+    second: ZRPGcastle_373
+  - first:
+      213: -8073910493263070838
+    second: ZRPGcastle_374
+  - first:
+      213: -2845283353226827425
+    second: ZRPGcastle_375
+  - first:
+      213: -6967457809773538072
+    second: ZRPGcastle_376
+  - first:
+      213: 7340870490185296990
+    second: ZRPGcastle_377
+  - first:
+      213: -3818901217517286002
+    second: ZRPGcastle_378
+  - first:
+      213: 1973702547710807180
+    second: ZRPGcastle_379
+  - first:
+      213: -3802251479058105859
+    second: ZRPGcastle_380
+  - first:
+      213: -1030486871514098805
+    second: ZRPGcastle_381
+  - first:
+      213: 2672083467147457553
+    second: ZRPGcastle_382
+  - first:
+      213: 8192167136431837465
+    second: ZRPGcastle_383
+  - first:
+      213: 5629207224521263500
+    second: ZRPGcastle_384
+  - first:
+      213: 3524431877287363425
+    second: ZRPGcastle_385
+  - first:
+      213: 8423612736799582531
+    second: ZRPGcastle_386
+  - first:
+      213: 5943112755671689547
+    second: ZRPGcastle_387
+  - first:
+      213: -4499935294633586144
+    second: ZRPGcastle_388
+  - first:
+      213: -842895958691480098
+    second: ZRPGcastle_389
+  - first:
+      213: 436267879074950169
+    second: ZRPGcastle_390
+  - first:
+      213: -9173288281181984338
+    second: ZRPGcastle_391
+  - first:
+      213: 9189900662461224645
+    second: ZRPGcastle_392
+  - first:
+      213: -5272255775350895684
+    second: ZRPGcastle_393
+  - first:
+      213: 3128264151958803525
+    second: ZRPGcastle_394
+  - first:
+      213: 1984536344277221799
+    second: ZRPGcastle_395
+  - first:
+      213: -6866355756933422086
+    second: ZRPGcastle_396
+  - first:
+      213: 4359882702294905743
+    second: ZRPGcastle_397
+  - first:
+      213: -1616508509682932450
+    second: ZRPGcastle_398
+  - first:
+      213: 6676608293889271946
+    second: ZRPGcastle_399
+  - first:
+      213: 7505987163511778873
+    second: ZRPGcastle_400
+  - first:
+      213: -1709520455500670947
+    second: ZRPGcastle_401
+  - first:
+      213: -592256110488524812
+    second: ZRPGcastle_402
+  - first:
+      213: 3366121204437175455
+    second: ZRPGcastle_403
+  - first:
+      213: 3322445630014306816
+    second: ZRPGcastle_404
+  - first:
+      213: -276659966873072505
+    second: ZRPGcastle_405
+  - first:
+      213: 3558896865440192812
+    second: ZRPGcastle_406
+  - first:
+      213: 7086519903524517155
+    second: ZRPGcastle_407
+  - first:
+      213: -955562875387137723
+    second: ZRPGcastle_408
+  - first:
+      213: 6333220968814699324
+    second: ZRPGcastle_409
+  - first:
+      213: -2890520284896649877
+    second: ZRPGcastle_410
+  - first:
+      213: -7154726040634718112
+    second: ZRPGcastle_411
+  - first:
+      213: -2547383944525768481
+    second: ZRPGcastle_412
+  - first:
+      213: 986944186614079029
+    second: ZRPGcastle_413
+  - first:
+      213: 4221315628407094601
+    second: ZRPGcastle_414
+  - first:
+      213: -1010884221212507082
+    second: ZRPGcastle_415
+  - first:
+      213: -4821560968587078625
+    second: ZRPGcastle_416
+  - first:
+      213: -7202991971019722827
+    second: ZRPGcastle_417
+  - first:
+      213: 2669390270345743332
+    second: ZRPGcastle_418
+  - first:
+      213: -2116737772893436141
+    second: ZRPGcastle_419
+  - first:
+      213: 4866353632247339169
+    second: ZRPGcastle_420
+  - first:
+      213: -2474900242513659303
+    second: ZRPGcastle_421
+  - first:
+      213: 1155054831046703326
+    second: ZRPGcastle_422
+  - first:
+      213: -1491180128144588894
+    second: ZRPGcastle_423
+  - first:
+      213: -8544867955592156473
+    second: ZRPGcastle_424
+  - first:
+      213: 3037931519693272845
+    second: ZRPGcastle_425
+  - first:
+      213: -6724005446532846165
+    second: ZRPGcastle_426
+  - first:
+      213: 2533176727294122826
+    second: ZRPGcastle_427
+  - first:
+      213: -82099718611710494
+    second: ZRPGcastle_428
+  - first:
+      213: 5807598247623968143
+    second: ZRPGcastle_429
+  - first:
+      213: -7211567881592604654
+    second: ZRPGcastle_430
+  - first:
+      213: 5763425001585036316
+    second: ZRPGcastle_431
+  - first:
+      213: -5089158804224868416
+    second: ZRPGcastle_432
+  - first:
+      213: -3630521787579871028
+    second: ZRPGcastle_433
+  - first:
+      213: 3390732625292740932
+    second: ZRPGcastle_434
+  - first:
+      213: -5267646962311144754
+    second: ZRPGcastle_435
+  - first:
+      213: -2995408119769363402
+    second: ZRPGcastle_436
+  - first:
+      213: 6701448516818193366
+    second: ZRPGcastle_437
+  - first:
+      213: -8741208416725055235
+    second: ZRPGcastle_438
+  - first:
+      213: 5969709164770365581
+    second: ZRPGcastle_439
+  - first:
+      213: -4677157744037516299
+    second: ZRPGcastle_440
+  - first:
+      213: 5323967503542923839
+    second: ZRPGcastle_441
+  - first:
+      213: -836562287200249617
+    second: ZRPGcastle_442
+  - first:
+      213: -7719256938664365820
+    second: ZRPGcastle_443
+  - first:
+      213: 5650804645215306860
+    second: ZRPGcastle_444
+  - first:
+      213: -2130414460445795387
+    second: ZRPGcastle_445
+  - first:
+      213: -4830481016285248318
+    second: ZRPGcastle_446
+  - first:
+      213: 8407488825822924176
+    second: ZRPGcastle_447
+  - first:
+      213: -4816430000987360279
+    second: ZRPGcastle_448
+  - first:
+      213: -893492308084460398
+    second: ZRPGcastle_449
+  - first:
+      213: 903560202354625064
+    second: ZRPGcastle_450
+  - first:
+      213: 300474374000347084
+    second: ZRPGcastle_451
+  - first:
+      213: 8869692833663096802
+    second: ZRPGcastle_452
+  - first:
+      213: 3636685729934734085
+    second: ZRPGcastle_453
+  - first:
+      213: 7471829876878580823
+    second: ZRPGcastle_454
+  - first:
+      213: -5558194382684196497
+    second: ZRPGcastle_455
+  - first:
+      213: -7539535007990145890
+    second: ZRPGcastle_456
+  - first:
+      213: 1497610092624585735
+    second: ZRPGcastle_457
+  - first:
+      213: -3490674419917687493
+    second: ZRPGcastle_458
+  - first:
+      213: -5610921149550288223
+    second: ZRPGcastle_459
+  - first:
+      213: 5766183964107857610
+    second: ZRPGcastle_460
+  - first:
+      213: 1316317752094102558
+    second: ZRPGcastle_461
+  - first:
+      213: 4162879342085435568
+    second: ZRPGcastle_462
+  - first:
+      213: 7316276093462817270
+    second: ZRPGcastle_463
+  - first:
+      213: 4328610525458094689
+    second: ZRPGcastle_464
+  - first:
+      213: -8328967645734639820
+    second: ZRPGcastle_465
+  - first:
+      213: -8620096100619914757
+    second: ZRPGcastle_466
+  - first:
+      213: -4904414673711006002
+    second: ZRPGcastle_467
+  - first:
+      213: -5607865169645289667
+    second: ZRPGcastle_468
+  - first:
+      213: 3995302545211029144
+    second: ZRPGcastle_469
+  - first:
+      213: 5999359682183457929
+    second: ZRPGcastle_470
+  - first:
+      213: 305295109779840477
+    second: ZRPGcastle_471
+  - first:
+      213: 5667446116916685554
+    second: ZRPGcastle_472
+  - first:
+      213: 3492005154039513914
+    second: ZRPGcastle_473
+  - first:
+      213: -6410606426916855915
+    second: ZRPGcastle_474
+  - first:
+      213: 8505629574381360382
+    second: ZRPGcastle_475
+  - first:
+      213: -233166124259455637
+    second: ZRPGcastle_476
+  - first:
+      213: -7858311069425451342
+    second: ZRPGcastle_477
+  - first:
+      213: -4490107870950877503
+    second: ZRPGcastle_478
+  - first:
+      213: 6534826947366368548
+    second: ZRPGcastle_479
+  - first:
+      213: 2300759253613688432
+    second: ZRPGcastle_480
+  - first:
+      213: 796273465487762341
+    second: ZRPGcastle_481
+  - first:
+      213: 4882426951045962160
+    second: ZRPGcastle_482
+  - first:
+      213: -6813123437389272527
+    second: ZRPGcastle_483
+  - first:
+      213: 7859003161501155221
+    second: ZRPGcastle_484
+  - first:
+      213: 5440987399218425044
+    second: ZRPGcastle_485
+  - first:
+      213: -3969112292429481178
+    second: ZRPGcastle_486
+  - first:
+      213: -5802232471857925128
+    second: ZRPGcastle_487
+  - first:
+      213: 2121727141155996998
+    second: ZRPGcastle_488
+  - first:
+      213: 5017086662316790406
+    second: ZRPGcastle_489
+  - first:
+      213: 3165622042135371317
+    second: ZRPGcastle_490
+  - first:
+      213: 2510713026558524543
+    second: ZRPGcastle_491
+  - first:
+      213: 4665406905045421353
+    second: ZRPGcastle_492
+  - first:
+      213: 600943380144039249
+    second: ZRPGcastle_493
+  - first:
+      213: -6489958600029287159
+    second: ZRPGcastle_494
+  - first:
+      213: 2904292802892719161
+    second: ZRPGcastle_495
+  - first:
+      213: 5036354533555275264
+    second: ZRPGcastle_496
+  - first:
+      213: -2976668622195802423
+    second: ZRPGcastle_497
+  - first:
+      213: -1760773060451961252
+    second: ZRPGcastle_498
+  - first:
+      213: -6600327844854878535
+    second: ZRPGcastle_499
+  - first:
+      213: -9207817165372216045
+    second: ZRPGcastle_500
+  - first:
+      213: 4889802700574669821
+    second: ZRPGcastle_501
+  - first:
+      213: 6559476522102987974
+    second: ZRPGcastle_502
+  - first:
+      213: -767414822775125496
+    second: ZRPGcastle_503
+  - first:
+      213: 844848313231470619
+    second: ZRPGcastle_504
+  - first:
+      213: -2019599592194453304
+    second: ZRPGcastle_505
+  - first:
+      213: -5247940085486262609
+    second: ZRPGcastle_506
+  - first:
+      213: -2531136893913670740
+    second: ZRPGcastle_507
+  - first:
+      213: 2065576012220772176
+    second: ZRPGcastle_508
+  - first:
+      213: -260445149590880573
+    second: ZRPGcastle_509
+  - first:
+      213: 5811974057639869982
+    second: ZRPGcastle_510
+  - first:
+      213: -4329191347646004089
+    second: ZRPGcastle_511
+  - first:
+      213: 7289633369652964556
+    second: ZRPGcastle_512
+  - first:
+      213: 796601086159391062
+    second: ZRPGcastle_513
+  - first:
+      213: -1183562238296298506
+    second: ZRPGcastle_514
+  - first:
+      213: 4299640032562959851
+    second: ZRPGcastle_515
+  - first:
+      213: 4639707775574369752
+    second: ZRPGcastle_516
+  - first:
+      213: 781173010728767978
+    second: ZRPGcastle_517
+  - first:
+      213: -5806504311392777447
+    second: ZRPGcastle_518
+  - first:
+      213: -6891731256800268154
+    second: ZRPGcastle_519
+  - first:
+      213: -7257702839908160601
+    second: ZRPGcastle_520
+  - first:
+      213: -1759333560076138476
+    second: ZRPGcastle_521
+  - first:
+      213: -3729406835383777147
+    second: ZRPGcastle_522
+  - first:
+      213: 1594543199988611136
+    second: ZRPGcastle_523
+  - first:
+      213: 8876852044061507201
+    second: ZRPGcastle_524
+  - first:
+      213: 2145613770820513088
+    second: ZRPGcastle_525
+  - first:
+      213: -1702881660477954031
+    second: ZRPGcastle_526
+  - first:
+      213: -3639423548384992321
+    second: ZRPGcastle_527
+  - first:
+      213: 3442774476572760140
+    second: ZRPGcastle_528
+  - first:
+      213: -1400914389734571162
+    second: ZRPGcastle_529
+  - first:
+      213: 4956195775791888742
+    second: ZRPGcastle_530
+  - first:
+      213: -6849394219041996535
+    second: ZRPGcastle_531
+  - first:
+      213: 8045704313345738266
+    second: ZRPGcastle_532
+  - first:
+      213: 8831690217007845865
+    second: ZRPGcastle_533
+  - first:
+      213: -2058535411661934492
+    second: ZRPGcastle_534
+  - first:
+      213: -5955409277445345904
+    second: ZRPGcastle_535
+  - first:
+      213: 7742637922360145912
+    second: ZRPGcastle_536
+  - first:
+      213: -291697979871939191
+    second: ZRPGcastle_537
+  - first:
+      213: -5564081846281045510
+    second: ZRPGcastle_538
+  - first:
+      213: 8843542005502587505
+    second: ZRPGcastle_539
+  - first:
+      213: -694590395877966474
+    second: ZRPGcastle_540
+  - first:
+      213: 3118695626014033603
+    second: ZRPGcastle_541
+  - first:
+      213: 3825123250557397623
+    second: ZRPGcastle_542
+  - first:
+      213: -3164211253529153316
+    second: ZRPGcastle_543
+  - first:
+      213: 7042824883621801934
+    second: ZRPGcastle_544
+  - first:
+      213: -4366486491007741567
+    second: ZRPGcastle_545
+  - first:
+      213: -5093868630861120296
+    second: ZRPGcastle_546
+  - first:
+      213: 4172141947951830991
+    second: ZRPGcastle_547
+  - first:
+      213: -1553534886215022583
+    second: ZRPGcastle_548
+  - first:
+      213: 9035189914237425722
+    second: ZRPGcastle_549
+  - first:
+      213: -493812062240435893
+    second: ZRPGcastle_550
+  - first:
+      213: 5295712657206706152
+    second: ZRPGcastle_551
+  - first:
+      213: -9103766030282249805
+    second: ZRPGcastle_552
+  - first:
+      213: 1537871917274165277
+    second: ZRPGcastle_553
+  - first:
+      213: 3785830906441504579
+    second: ZRPGcastle_554
+  - first:
+      213: -658781320119325190
+    second: ZRPGcastle_555
+  - first:
+      213: -3653280577456960489
+    second: ZRPGcastle_556
+  - first:
+      213: 4344062226483644502
+    second: ZRPGcastle_557
+  - first:
+      213: 358438699361569187
+    second: ZRPGcastle_558
+  - first:
+      213: -7252597856905201949
+    second: ZRPGcastle_559
+  - first:
+      213: 5951640740357021213
+    second: ZRPGcastle_560
+  - first:
+      213: -2892826733027373338
+    second: ZRPGcastle_561
+  - first:
+      213: 9112903778254430753
+    second: ZRPGcastle_562
+  - first:
+      213: -4052756191182524329
+    second: ZRPGcastle_563
+  - first:
+      213: -3314738523092194401
+    second: ZRPGcastle_564
+  - first:
+      213: -3172850210539742727
+    second: ZRPGcastle_565
+  - first:
+      213: -4827111974253548350
+    second: ZRPGcastle_566
+  - first:
+      213: 8886421758181498072
+    second: ZRPGcastle_567
+  - first:
+      213: 559577483313591500
+    second: ZRPGcastle_568
+  - first:
+      213: -3131928014247645597
+    second: ZRPGcastle_569
+  - first:
+      213: -2802138268990730585
+    second: ZRPGcastle_570
+  - first:
+      213: -8528507428791192843
+    second: ZRPGcastle_571
+  - first:
+      213: 2882275122637203443
+    second: ZRPGcastle_572
+  - first:
+      213: -8942752141213223120
+    second: ZRPGcastle_573
+  - first:
+      213: -6219747054254826356
+    second: ZRPGcastle_574
+  - first:
+      213: -5960015069828628511
+    second: ZRPGcastle_575
+  - first:
+      213: -7724347187429587981
+    second: ZRPGcastle_576
+  - first:
+      213: -138052828512881842
+    second: ZRPGcastle_577
+  - first:
+      213: -785469195901545680
+    second: ZRPGcastle_578
+  - first:
+      213: -8419714410928817866
+    second: ZRPGcastle_579
+  - first:
+      213: 7656483824556459861
+    second: ZRPGcastle_580
+  - first:
+      213: -7710490548250135962
+    second: ZRPGcastle_581
+  - first:
+      213: -4995707253891255478
+    second: ZRPGcastle_582
+  - first:
+      213: 7893355083054294169
+    second: ZRPGcastle_583
+  - first:
+      213: -646097788296152747
+    second: ZRPGcastle_584
+  - first:
+      213: -1650441977230169672
+    second: ZRPGcastle_585
+  - first:
+      213: 2697955537290041768
+    second: ZRPGcastle_586
+  - first:
+      213: -7775506604789293290
+    second: ZRPGcastle_587
+  - first:
+      213: 6894189788974512515
+    second: ZRPGcastle_588
+  - first:
+      213: 8671459870510380224
+    second: ZRPGcastle_589
+  - first:
+      213: -5967288192373257486
+    second: ZRPGcastle_590
+  - first:
+      213: 3082522791555410707
+    second: ZRPGcastle_591
+  - first:
+      213: -2217220571899302381
+    second: ZRPGcastle_592
+  - first:
+      213: 5313258177311490615
+    second: ZRPGcastle_593
+  - first:
+      213: -5169662306013096759
+    second: ZRPGcastle_594
+  - first:
+      213: 3912530957804442706
+    second: ZRPGcastle_595
+  - first:
+      213: -6051254023634230674
+    second: ZRPGcastle_596
+  - first:
+      213: -3611600549206299473
+    second: ZRPGcastle_597
+  - first:
+      213: 4803714455308343311
+    second: ZRPGcastle_598
+  - first:
+      213: 5891495451059895496
+    second: ZRPGcastle_599
+  - first:
+      213: -2847206040932469872
+    second: ZRPGcastle_600
+  - first:
+      213: -5571995687439635857
+    second: ZRPGcastle_601
+  - first:
+      213: 1113491376919128907
+    second: ZRPGcastle_602
+  - first:
+      213: -1654929143152710137
+    second: ZRPGcastle_603
+  - first:
+      213: 1971255512444413473
+    second: ZRPGcastle_604
+  - first:
+      213: 776823048701569982
+    second: ZRPGcastle_605
+  - first:
+      213: -8674977176780926089
+    second: ZRPGcastle_606
+  - first:
+      213: -2231955133834746013
+    second: ZRPGcastle_607
+  - first:
+      213: -6756118315218547847
+    second: ZRPGcastle_608
+  - first:
+      213: -7743708398601060311
+    second: ZRPGcastle_609
+  - first:
+      213: 5473682452529860469
+    second: ZRPGcastle_610
+  - first:
+      213: 1239948395755945673
+    second: ZRPGcastle_611
+  - first:
+      213: 6361700104827340124
+    second: ZRPGcastle_612
+  - first:
+      213: 2511179737320985544
+    second: ZRPGcastle_613
+  - first:
+      213: -1560625394272061100
+    second: ZRPGcastle_614
+  - first:
+      213: -3758287516674634955
+    second: ZRPGcastle_615
+  - first:
+      213: -921559259514606427
+    second: ZRPGcastle_616
+  - first:
+      213: 1578340879498278316
+    second: ZRPGcastle_617
+  - first:
+      213: 2146190715525345988
+    second: ZRPGcastle_618
+  - first:
+      213: -5029440908617068038
+    second: ZRPGcastle_619
+  - first:
+      213: 3028666446056475983
+    second: ZRPGcastle_620
+  - first:
+      213: -3676108202131070178
+    second: ZRPGcastle_621
+  - first:
+      213: -5198440969809447548
+    second: ZRPGcastle_622
+  - first:
+      213: -7330349844495324531
+    second: ZRPGcastle_623
+  - first:
+      213: 5725407181416362871
+    second: ZRPGcastle_624
+  - first:
+      213: -7233256514915724829
+    second: ZRPGcastle_625
+  - first:
+      213: 7738619025037194170
+    second: ZRPGcastle_626
+  - first:
+      213: -5190025272206458673
+    second: ZRPGcastle_627
+  - first:
+      213: 305825320338526088
+    second: ZRPGcastle_628
+  - first:
+      213: 586757505512967894
+    second: ZRPGcastle_629
+  - first:
+      213: -2627118332610862926
+    second: ZRPGcastle_630
+  - first:
+      213: 8049837264745624467
+    second: ZRPGcastle_631
+  - first:
+      213: -41725915581758632
+    second: ZRPGcastle_632
+  - first:
+      213: 5619371154200059721
+    second: ZRPGcastle_633
+  - first:
+      213: -8456021223268541573
+    second: ZRPGcastle_634
+  - first:
+      213: 7296808164028426616
+    second: ZRPGcastle_635
+  - first:
+      213: -5728779374863833335
+    second: ZRPGcastle_636
+  - first:
+      213: -6424820714694392795
+    second: ZRPGcastle_637
+  - first:
+      213: 4527380419801394077
+    second: ZRPGcastle_638
+  - first:
+      213: 1808572959210458214
+    second: ZRPGcastle_639
+  - first:
+      213: 3235799668761414622
+    second: ZRPGcastle_640
+  - first:
+      213: -3289745901576347463
+    second: ZRPGcastle_641
+  - first:
+      213: -3734133568107851987
+    second: ZRPGcastle_642
+  - first:
+      213: -3939686514444807745
+    second: ZRPGcastle_643
+  - first:
+      213: -1459981232209050222
+    second: ZRPGcastle_644
+  - first:
+      213: 2100073195128888609
+    second: ZRPGcastle_645
+  - first:
+      213: -799052173768023984
+    second: ZRPGcastle_646
+  - first:
+      213: -4099642505569344829
+    second: ZRPGcastle_647
+  - first:
+      213: -553321443661663122
+    second: ZRPGcastle_648
+  - first:
+      213: 5861687863431538922
+    second: ZRPGcastle_649
+  - first:
+      213: 520294770863349595
+    second: ZRPGcastle_650
+  - first:
+      213: 4019610992999399931
+    second: ZRPGcastle_651
+  - first:
+      213: -6368672531219035310
+    second: ZRPGcastle_652
+  - first:
+      213: 4602414650089385959
+    second: ZRPGcastle_653
+  - first:
+      213: -70624324088757338
+    second: ZRPGcastle_654
+  - first:
+      213: 5168405450914125273
+    second: ZRPGcastle_655
+  - first:
+      213: 3868633459597063744
+    second: ZRPGcastle_656
+  - first:
+      213: -776886210791893144
+    second: ZRPGcastle_657
+  - first:
+      213: 4137332685715449738
+    second: ZRPGcastle_658
+  - first:
+      213: -5194493659341892179
+    second: ZRPGcastle_659
+  - first:
+      213: 6177045909278414256
+    second: ZRPGcastle_660
+  - first:
+      213: -3824501510133829918
+    second: ZRPGcastle_661
+  - first:
+      213: 6843889614187083349
+    second: ZRPGcastle_662
+  - first:
+      213: 3952023423635383359
+    second: ZRPGcastle_663
+  - first:
+      213: 3463711227729877000
+    second: ZRPGcastle_664
+  - first:
+      213: 3355473835907939443
+    second: ZRPGcastle_665
+  - first:
+      213: -5257002623083289811
+    second: ZRPGcastle_666
+  - first:
+      213: 5448974383943780140
+    second: ZRPGcastle_667
+  - first:
+      213: -4891736526416100208
+    second: ZRPGcastle_668
+  - first:
+      213: -3229773900446345492
+    second: ZRPGcastle_669
+  - first:
+      213: -736384941936652684
+    second: ZRPGcastle_670
+  - first:
+      213: -8152917713368307577
+    second: ZRPGcastle_671
+  - first:
+      213: 5875999194612027997
+    second: ZRPGcastle_672
+  - first:
+      213: -6198719398134493421
+    second: ZRPGcastle_673
+  - first:
+      213: 1770294285138852970
+    second: ZRPGcastle_674
+  - first:
+      213: -1222399014906788388
+    second: ZRPGcastle_675
+  - first:
+      213: 1952082312387545462
+    second: ZRPGcastle_676
+  - first:
+      213: -3083728213938096354
+    second: ZRPGcastle_677
+  - first:
+      213: 889867046706388350
+    second: ZRPGcastle_678
+  - first:
+      213: 1165573078571422756
+    second: ZRPGcastle_679
+  - first:
+      213: -499147600447142460
+    second: ZRPGcastle_680
+  - first:
+      213: 1703260533539560738
+    second: ZRPGcastle_681
+  - first:
+      213: -6073066845346389671
+    second: ZRPGcastle_682
+  - first:
+      213: 1639101917836816386
+    second: ZRPGcastle_683
+  - first:
+      213: 6250457103340749136
+    second: ZRPGcastle_684
+  - first:
+      213: -7693121586841218153
+    second: ZRPGcastle_685
+  - first:
+      213: -3976969959420234527
+    second: ZRPGcastle_686
+  - first:
+      213: -5253090034810592128
+    second: ZRPGcastle_687
+  - first:
+      213: 444040464937035192
+    second: ZRPGcastle_688
+  - first:
+      213: -4162469082365849083
+    second: ZRPGcastle_689
+  - first:
+      213: 4039053286298522978
+    second: ZRPGcastle_690
+  - first:
+      213: 336616421970858080
+    second: ZRPGcastle_691
+  - first:
+      213: -9181808288186617247
+    second: ZRPGcastle_692
+  - first:
+      213: 5756133127971756762
+    second: ZRPGcastle_693
+  - first:
+      213: 5149771226079327943
+    second: ZRPGcastle_694
+  - first:
+      213: 2260306179411402876
+    second: ZRPGcastle_695
+  - first:
+      213: 1919025398616275839
+    second: ZRPGcastle_696
+  - first:
+      213: -1912782371630508450
+    second: ZRPGcastle_697
+  - first:
+      213: 7089031835963038447
+    second: ZRPGcastle_698
+  - first:
+      213: -5894446623584455829
+    second: ZRPGcastle_699
+  - first:
+      213: -8933987950023826070
+    second: ZRPGcastle_700
+  - first:
+      213: -7385896814432193783
+    second: ZRPGcastle_701
+  - first:
+      213: 6781428085801445934
+    second: ZRPGcastle_702
+  - first:
+      213: -4021795720145488612
+    second: ZRPGcastle_703
+  - first:
+      213: -2113793244853165728
+    second: ZRPGcastle_704
+  - first:
+      213: 6161853752839577487
+    second: ZRPGcastle_705
+  - first:
+      213: -6881843387019073589
+    second: ZRPGcastle_706
+  - first:
+      213: 8821677936667521291
+    second: ZRPGcastle_707
+  - first:
+      213: 5265646020374525899
+    second: ZRPGcastle_708
+  - first:
+      213: -8922538368021586170
+    second: ZRPGcastle_709
+  - first:
+      213: 882516644365914515
+    second: ZRPGcastle_710
+  - first:
+      213: -2713800589560525382
+    second: ZRPGcastle_711
+  - first:
+      213: 6602063276560505247
+    second: ZRPGcastle_712
+  - first:
+      213: 7444443493230067465
+    second: ZRPGcastle_713
+  - first:
+      213: 4644872939030616928
+    second: ZRPGcastle_714
+  - first:
+      213: 8540726030837444668
+    second: ZRPGcastle_715
+  - first:
+      213: -8832529414102343450
+    second: ZRPGcastle_716
+  - first:
+      213: 8392661369128249609
+    second: ZRPGcastle_717
+  - first:
+      213: -1515755661890834370
+    second: ZRPGcastle_718
+  - first:
+      213: -8835264389905034839
+    second: ZRPGcastle_719
+  - first:
+      213: 5046560471824610160
+    second: ZRPGcastle_720
+  - first:
+      213: -8310847469071632989
+    second: ZRPGcastle_721
+  - first:
+      213: 7046545040353240676
+    second: ZRPGcastle_722
+  - first:
+      213: 8947570278859172128
+    second: ZRPGcastle_723
+  - first:
+      213: -5178106056363943801
+    second: ZRPGcastle_724
+  - first:
+      213: -1347778887966688228
+    second: ZRPGcastle_725
+  - first:
+      213: -2522077298250070159
+    second: ZRPGcastle_726
+  - first:
+      213: -615411822929260924
+    second: ZRPGcastle_727
+  - first:
+      213: -4246741757323520941
+    second: ZRPGcastle_728
+  - first:
+      213: 706967640837228420
+    second: ZRPGcastle_729
+  - first:
+      213: 6864171073378858976
+    second: ZRPGcastle_730
+  - first:
+      213: -4504431819499994710
+    second: ZRPGcastle_731
+  - first:
+      213: 427411950580970547
+    second: ZRPGcastle_732
+  - first:
+      213: -2662814622289179245
+    second: ZRPGcastle_733
+  - first:
+      213: -7555834069915577275
+    second: ZRPGcastle_734
+  - first:
+      213: 4572778747770454965
+    second: ZRPGcastle_735
+  - first:
+      213: 4174133957897610287
+    second: ZRPGcastle_736
+  - first:
+      213: -7365426133601608030
+    second: ZRPGcastle_737
+  - first:
+      213: 8440492926639057144
+    second: ZRPGcastle_738
+  - first:
+      213: 6469694908453172825
+    second: ZRPGcastle_739
+  - first:
+      213: -644880521937147724
+    second: ZRPGcastle_740
+  - first:
+      213: 5650772676341312920
+    second: ZRPGcastle_741
+  - first:
+      213: 4372728818154040192
+    second: ZRPGcastle_742
+  - first:
+      213: -588856530735980798
+    second: ZRPGcastle_743
+  - first:
+      213: 8877753015103758882
+    second: ZRPGcastle_744
+  - first:
+      213: 9068857724479496326
+    second: ZRPGcastle_745
+  - first:
+      213: -1970101557291022353
+    second: ZRPGcastle_746
+  - first:
+      213: 7186154516272554933
+    second: ZRPGcastle_747
+  - first:
+      213: -8146247946604615676
+    second: ZRPGcastle_748
+  - first:
+      213: -1053776958702573851
+    second: ZRPGcastle_749
+  - first:
+      213: 320827603938040373
+    second: ZRPGcastle_750
+  - first:
+      213: 789950830663918532
+    second: ZRPGcastle_751
+  - first:
+      213: -4361283227638643549
+    second: ZRPGcastle_752
+  - first:
+      213: -2453536297753981914
+    second: ZRPGcastle_753
+  - first:
+      213: 1013255257135036512
+    second: ZRPGcastle_754
+  - first:
+      213: 297743594898261700
+    second: ZRPGcastle_755
+  - first:
+      213: -3533244365238219905
+    second: ZRPGcastle_756
+  - first:
+      213: 5579238848433846679
+    second: ZRPGcastle_757
+  - first:
+      213: 6377184762908122975
+    second: ZRPGcastle_758
+  - first:
+      213: -8805571541106815571
+    second: ZRPGcastle_759
+  - first:
+      213: -7964098331084626960
+    second: ZRPGcastle_760
+  - first:
+      213: 6946475143511311568
+    second: ZRPGcastle_761
+  - first:
+      213: -3510099840876611042
+    second: ZRPGcastle_762
+  - first:
+      213: -4317573605530343023
+    second: ZRPGcastle_763
+  - first:
+      213: -4139546965719064943
+    second: ZRPGcastle_764
+  - first:
+      213: -1429598721685785744
+    second: ZRPGcastle_765
+  - first:
+      213: 8316180461404886151
+    second: ZRPGcastle_766
+  - first:
+      213: -8241879290976627857
+    second: ZRPGcastle_767
+  - first:
+      213: -898637864947083345
+    second: ZRPGcastle_768
+  - first:
+      213: 2406299408842939563
+    second: ZRPGcastle_769
+  - first:
+      213: -7482647886527262883
+    second: ZRPGcastle_770
+  - first:
+      213: 7901848361724024456
+    second: ZRPGcastle_771
+  - first:
+      213: 1895712878666026646
+    second: ZRPGcastle_772
+  - first:
+      213: -4239808318414703049
+    second: ZRPGcastle_773
+  - first:
+      213: 1511212692611649766
+    second: ZRPGcastle_774
+  - first:
+      213: 5773745191827747242
+    second: ZRPGcastle_775
+  - first:
+      213: -4379823976492135833
+    second: ZRPGcastle_776
+  - first:
+      213: -3782456323410428209
+    second: ZRPGcastle_777
+  - first:
+      213: -269704486521135741
+    second: ZRPGcastle_778
+  - first:
+      213: 3340106892944994549
+    second: ZRPGcastle_779
+  - first:
+      213: 2513168404284532774
+    second: ZRPGcastle_780
+  - first:
+      213: 7502301469419476528
+    second: ZRPGcastle_781
+  - first:
+      213: -1030777137144930767
+    second: ZRPGcastle_782
+  - first:
+      213: 4421985825972182792
+    second: ZRPGcastle_783
+  - first:
+      213: -4774824989971230080
+    second: ZRPGcastle_784
+  - first:
+      213: -2763826150855526989
+    second: ZRPGcastle_785
+  - first:
+      213: 1619454279769085045
+    second: ZRPGcastle_786
+  - first:
+      213: 7670114325377726962
+    second: ZRPGcastle_787
+  - first:
+      213: 4085269347189061589
+    second: ZRPGcastle_788
+  - first:
+      213: 3105404766175025894
+    second: ZRPGcastle_789
+  - first:
+      213: -6080966842506253555
+    second: ZRPGcastle_790
+  - first:
+      213: -4589346581622708133
+    second: ZRPGcastle_791
+  - first:
+      213: -8670683310796542170
+    second: ZRPGcastle_792
+  - first:
+      213: 5897144353293544520
+    second: ZRPGcastle_793
+  - first:
+      213: -1426082297066559598
+    second: ZRPGcastle_794
+  - first:
+      213: 2722284457170740378
+    second: ZRPGcastle_795
+  - first:
+      213: 7549391172687879995
+    second: ZRPGcastle_796
+  - first:
+      213: -1151124441103043065
+    second: ZRPGcastle_797
+  - first:
+      213: 6435111579252450993
+    second: ZRPGcastle_798
+  - first:
+      213: -6602772924687308521
+    second: ZRPGcastle_799
+  - first:
+      213: 1928859203203337523
+    second: ZRPGcastle_800
+  - first:
+      213: 4805021983924003288
+    second: ZRPGcastle_801
+  - first:
+      213: -9122965469364383743
+    second: ZRPGcastle_802
+  - first:
+      213: -1739578791692958111
+    second: ZRPGcastle_803
+  - first:
+      213: 4545760690170556839
+    second: ZRPGcastle_804
+  - first:
+      213: 9083124469646315082
+    second: ZRPGcastle_805
+  - first:
+      213: -8140461510081452604
+    second: ZRPGcastle_806
+  - first:
+      213: 1118335097361182586
+    second: ZRPGcastle_807
+  - first:
+      213: 6901675104559513925
+    second: ZRPGcastle_808
+  - first:
+      213: 4458760411183006953
+    second: ZRPGcastle_809
+  - first:
+      213: 2974965557184045437
+    second: ZRPGcastle_810
+  - first:
+      213: 9072209020987142605
+    second: ZRPGcastle_811
+  - first:
+      213: -5486996088603938179
+    second: ZRPGcastle_812
+  - first:
+      213: 7737021889161819990
+    second: ZRPGcastle_813
+  - first:
+      213: -361648487379432383
+    second: ZRPGcastle_814
+  - first:
+      213: 2571368501112162195
+    second: ZRPGcastle_815
+  - first:
+      213: -505139240891448721
+    second: ZRPGcastle_816
+  - first:
+      213: 5741064044485138636
+    second: ZRPGcastle_817
+  - first:
+      213: -3624666510236214427
+    second: ZRPGcastle_818
+  - first:
+      213: 7285350063195777259
+    second: ZRPGcastle_819
+  - first:
+      213: 1825420854109357462
+    second: ZRPGcastle_820
+  - first:
+      213: -7492123087001754046
+    second: ZRPGcastle_821
+  - first:
+      213: 6076944362076042605
+    second: ZRPGcastle_822
+  - first:
+      213: 3090442746415691140
+    second: ZRPGcastle_823
+  - first:
+      213: -2299008353618626627
+    second: ZRPGcastle_824
+  - first:
+      213: -7209467108172869952
+    second: ZRPGcastle_825
+  - first:
+      213: 2857684167611986219
+    second: ZRPGcastle_826
+  - first:
+      213: -5515749355328002870
+    second: ZRPGcastle_827
+  - first:
+      213: -120316147199259694
+    second: ZRPGcastle_828
+  - first:
+      213: -6983959369570149170
+    second: ZRPGcastle_829
+  - first:
+      213: 7785241499246501464
+    second: ZRPGcastle_830
+  - first:
+      213: -5525046790407209453
+    second: ZRPGcastle_831
+  - first:
+      213: -101508349737884107
+    second: ZRPGcastle_832
+  - first:
+      213: 7077552273410836611
+    second: ZRPGcastle_833
+  - first:
+      213: -2362855573156332474
+    second: ZRPGcastle_834
+  - first:
+      213: 2109795940398468899
+    second: ZRPGcastle_835
+  - first:
+      213: 5747215558631377184
+    second: ZRPGcastle_836
+  - first:
+      213: -4169811233215167431
+    second: ZRPGcastle_837
+  - first:
+      213: 8324315813429932169
+    second: ZRPGcastle_838
+  - first:
+      213: -5263307920492638585
+    second: ZRPGcastle_839
+  - first:
+      213: -8682478127468475546
+    second: ZRPGcastle_840
+  - first:
+      213: 8725143127400757749
+    second: ZRPGcastle_841
+  - first:
+      213: 3557986036658616573
+    second: ZRPGcastle_842
+  - first:
+      213: -8405033858727809710
+    second: ZRPGcastle_843
+  - first:
+      213: -310381214393517198
+    second: ZRPGcastle_844
+  - first:
+      213: -3747740778061123250
+    second: ZRPGcastle_845
+  - first:
+      213: -671531147918565432
+    second: ZRPGcastle_846
+  - first:
+      213: 7517927116553597829
+    second: ZRPGcastle_847
+  - first:
+      213: 3584205682570085699
+    second: ZRPGcastle_848
+  - first:
+      213: -1789878127600291420
+    second: ZRPGcastle_849
+  - first:
+      213: 8425281863313554643
+    second: ZRPGcastle_850
+  - first:
+      213: -5011796851833089611
+    second: ZRPGcastle_851
+  - first:
+      213: 6035910254425988749
+    second: ZRPGcastle_852
+  - first:
+      213: 6098057661995667156
+    second: ZRPGcastle_853
+  - first:
+      213: 3293336119617321524
+    second: ZRPGcastle_854
+  - first:
+      213: 1128876780280024
+    second: ZRPGcastle_855
+  - first:
+      213: -1797731408284820544
+    second: ZRPGcastle_856
+  - first:
+      213: -7865439367740128648
+    second: ZRPGcastle_857
+  - first:
+      213: 3928205295320069797
+    second: ZRPGcastle_858
+  - first:
+      213: 784361842741350765
+    second: ZRPGcastle_859
+  - first:
+      213: 88937579501969198
+    second: ZRPGcastle_860
+  - first:
+      213: -539935663516282373
+    second: ZRPGcastle_861
+  - first:
+      213: -6007602172754131672
+    second: ZRPGcastle_862
+  - first:
+      213: -6928935497413841357
+    second: ZRPGcastle_863
+  - first:
+      213: 979730554140813580
+    second: ZRPGcastle_864
+  - first:
+      213: 2118160654169377552
+    second: ZRPGcastle_865
+  - first:
+      213: 5933344891486738400
+    second: ZRPGcastle_866
+  - first:
+      213: -6370690805643890839
+    second: ZRPGcastle_867
+  - first:
+      213: 4207552618869745090
+    second: ZRPGcastle_868
+  - first:
+      213: -5284623544377077341
+    second: ZRPGcastle_869
+  - first:
+      213: 5459279058888757665
+    second: ZRPGcastle_870
+  - first:
+      213: 9102444703725627837
+    second: ZRPGcastle_871
+  - first:
+      213: -3252548708446045469
+    second: ZRPGcastle_872
+  - first:
+      213: 5948051950412374990
+    second: ZRPGcastle_873
+  - first:
+      213: 2529676388850725335
+    second: ZRPGcastle_874
+  - first:
+      213: -6216438242178724943
+    second: ZRPGcastle_875
+  - first:
+      213: 3250933834219490484
+    second: ZRPGcastle_876
+  - first:
+      213: 7671827183491617174
+    second: ZRPGcastle_877
+  - first:
+      213: -5737920499772163592
+    second: ZRPGcastle_878
+  - first:
+      213: -1903539269845196494
+    second: ZRPGcastle_879
+  - first:
+      213: 4840758609190450357
+    second: ZRPGcastle_880
+  - first:
+      213: -6763767082847020097
+    second: ZRPGcastle_881
+  - first:
+      213: 5562816648784909430
+    second: ZRPGcastle_882
+  - first:
+      213: 5084332033250745269
+    second: ZRPGcastle_883
+  - first:
+      213: -1109921318070346032
+    second: ZRPGcastle_884
+  - first:
+      213: 8896605311269583731
+    second: ZRPGcastle_885
+  - first:
+      213: 849654532833033168
+    second: ZRPGcastle_886
+  - first:
+      213: 3960419209622169465
+    second: ZRPGcastle_887
+  - first:
+      213: -5588806654872235668
+    second: ZRPGcastle_888
+  - first:
+      213: 8759004496864858242
+    second: ZRPGcastle_889
+  - first:
+      213: -3574280841855968796
+    second: ZRPGcastle_890
+  - first:
+      213: 1486788669890750365
+    second: ZRPGcastle_891
+  - first:
+      213: 3713890764108271046
+    second: ZRPGcastle_892
+  - first:
+      213: 5929316273673505795
+    second: ZRPGcastle_893
+  - first:
+      213: -2870020903601539123
+    second: ZRPGcastle_894
+  - first:
+      213: -7997677347609071205
+    second: ZRPGcastle_895
+  - first:
+      213: -3595783905457310119
+    second: ZRPGcastle_896
+  - first:
+      213: 8265784848295402939
+    second: ZRPGcastle_897
+  - first:
+      213: -3662367262819121320
+    second: ZRPGcastle_898
+  - first:
+      213: 239897004295289451
+    second: ZRPGcastle_899
+  - first:
+      213: -1521993188958794739
+    second: ZRPGcastle_900
+  - first:
+      213: 2451911225509197813
+    second: ZRPGcastle_901
+  - first:
+      213: 6029660825890438432
+    second: ZRPGcastle_902
+  - first:
+      213: -5109209746003044474
+    second: ZRPGcastle_903
+  - first:
+      213: 2712221510920310274
+    second: ZRPGcastle_904
+  - first:
+      213: 4234975123735475135
+    second: ZRPGcastle_905
+  - first:
+      213: -4601874174121909556
+    second: ZRPGcastle_906
+  - first:
+      213: 1799939248852276966
+    second: ZRPGcastle_907
+  - first:
+      213: -8372419408747842375
+    second: ZRPGcastle_908
+  - first:
+      213: -5705531435186458933
+    second: ZRPGcastle_909
+  - first:
+      213: 7972623978676519443
+    second: ZRPGcastle_910
+  - first:
+      213: 2127264125878480303
+    second: ZRPGcastle_911
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZRPGcastle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c29c398b5bd45680800000000000000
+      internalID: -8767141388392557882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2dbddf4914b83c0800000000000000
+      internalID: -4356316106380815681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9c95f1bfb1ed770800000000000000
+      internalID: 8637371900719909311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9816d5bd67162b2f0800000000000000
+      internalID: -958596607562129015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836bc2962f3088000800000000000000
+      internalID: 38284936514156088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79db10001b53f87b0800000000000000
+      internalID: -5219894408773517929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b2532cea487a360800000000000000
+      internalID: 7180854016982985574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac11e4b41e9fa3df0800000000000000
+      internalID: -199572487438200374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc7d974a8695ace0800000000000000
+      internalID: -1394542988950143790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e31cc5fd8526b970800000000000000
+      internalID: 8770238615995028451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f523080b6247790800000000000000
+      internalID: -7533353737177112817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e74ade0c8562a20800000000000000
+      internalID: 3037212584351923728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c3b6538a6d7c030800000000000000
+      internalID: 3515014052125031430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3669a75ac42adcf50800000000000000
+      internalID: 6903352253906327139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8a99e5cdc52a20800000000000000
+      internalID: 3037059773642738537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df2a85be54d6f240800000000000000
+      internalID: 4825277554011811793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0cdf8f82fda55e0800000000000000
+      internalID: -1919976924051029788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_17
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905c94315b2681730800000000000000
+      internalID: 3970031601379296521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee10aaa400dab50800000000000000
+      internalID: 6605936549102218816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_19
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98e10aa7ea6eae60800000000000000
+      internalID: 7975429533341968540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf06fd0e313aef20800000000000000
+      internalID: 3452626206924869546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3e9bcd24f3b0f30800000000000000
+      internalID: 4542794205536838606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c995c236a4d2ace60800000000000000
+      internalID: 7983243086982306204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40046cd26a2c890800000000000000
+      internalID: -7439200918932814648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51f9c3d533e145b0800000000000000
+      internalID: -5385773859032403619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec109be0d85f8180800000000000000
+      internalID: -9110965866818691871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd2a3638edc4f4d0800000000000000
+      internalID: -3101627846125539845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d825484ad2316e70800000000000000
+      internalID: 9106615834616604889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d1a838be38c350800000000000000
+      internalID: 6037144261435185323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb56685c8ad10fa0800000000000000
+      internalID: -5836143345782072336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf464e86b4a4250800000000000000
+      internalID: 5929634773267184460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921918afd5a9275a0800000000000000
+      internalID: -6524983181680996055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62925bed5a14e5980800000000000000
+      internalID: -8548322862040798938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6019121672d2c9f40800000000000000
+      internalID: 5736509672519733510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd71d3ea086adec0800000000000000
+      internalID: -3541403760992354895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25148189ce0dcc7f0800000000000000
+      internalID: -590867736509791918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f593953c6c7e040800000000000000
+      internalID: 4676925280365403953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_37
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff14bfdac75e5650800000000000000
+      internalID: 6223508263920738299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fa740bde4579fa0800000000000000
+      internalID: -5794069015747383403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_39
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47517dc7607eef400800000000000000
+      internalID: 359979035286508916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_40
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8ed9b5fbef61310800000000000000
+      internalID: 1375566834037549293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_41
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80622533262d53150800000000000000
+      internalID: 5851814610047477256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7501b964b8fdfecf0800000000000000
+      internalID: -220712067439849385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb35603b485179a10800000000000000
+      internalID: 1916023826152838079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2770ba04e2b296780800000000000000
+      internalID: -8689366528381221006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d647a943f7f0e08e0800000000000000
+      internalID: -1725424568218520467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d08e238de71ec30800000000000000
+      internalID: 4386926979067678053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67db6ea2c66b6e950800000000000000
+      internalID: 6478065689711525238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faeb8375cc1cf5c0800000000000000
+      internalID: -4180434719733978384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d5a3d942c19e560800000000000000
+      internalID: 7343431610986552676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e9582eeaff9cde0800000000000000
+      internalID: -1312236689811988914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f3a53b9c2df2480800000000000000
+      internalID: -8921680573058367666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ff68929a39c7f0800000000000000
+      internalID: -591877474725398749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349252ace8527a5d0800000000000000
+      internalID: -3051428927313204925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_54
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f574210a822ce260800000000000000
+      internalID: 7128110286340650486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_55
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad91f27877cf0500800000000000000
+      internalID: 364729414978739625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cbeaca88d8508f0800000000000000
+      internalID: -574897759267668950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_57
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e414cd6062b95840800000000000000
+      internalID: 5213394170886231267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_58
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7afda05d1b526e00800000000000000
+      internalID: 1036491045714393726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ed9b457ece7150800000000000000
+      internalID: 5872357967312840023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d010819ee3a16e30800000000000000
+      internalID: 4495054148131098832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61703b1067d3b5770800000000000000
+      internalID: 8600535490438039318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53cf7d3bcf3c9370800000000000000
+      internalID: 8330603552871269210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c753e9c6a53779560800000000000000
+      internalID: 7320446551520589180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b81e5ead8a55dd30800000000000000
+      internalID: 4455566970915264689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adae62f870ff5d370800000000000000
+      internalID: 8346857892332628698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62855d2eed741fd00800000000000000
+      internalID: 1004663214494275622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024223ef306dedf60800000000000000
+      internalID: 8061115695677711392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b501e2087083d10800000000000000
+      internalID: 2105441072905739075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e38ff6cb0daecf0800000000000000
+      internalID: -222135723850449304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_70
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c74f005d1d17ac50800000000000000
+      internalID: 6676336984334485445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242efb9d38b3281c0800000000000000
+      internalID: -4502971239937088958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_72
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8907400d0d0c0f90800000000000000
+      internalID: -6986194572468090486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_73
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488ff119df45c3800800000000000000
+      internalID: 593442698944313476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b3ed43b850f92c0800000000000000
+      internalID: -4422810213608965342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7978a566d2e7daf0800000000000000
+      internalID: -371579033778357893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab542dafa154727a0800000000000000
+      internalID: -6402072363104320070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15388a1dd21bf3d70800000000000000
+      internalID: 9025126988622889809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc819dabf65f1260800000000000000
+      internalID: 7070465578943745269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ce711ad2131a3d0800000000000000
+      internalID: -3197220188410352630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c77110df2c0861c0800000000000000
+      internalID: -4510341627317749821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d8e96d85d159e0800000000000000
+      internalID: -1634290386414807684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_82
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f700ef8dd0677cc60800000000000000
+      internalID: 7838363478308814975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_83
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6039c4234a486a70800000000000000
+      internalID: 8820381522445545578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a686daf7f966e70800000000000000
+      internalID: 9108142667122371144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_85
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c588545638f168c0800000000000000
+      internalID: -4007649281156020792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_86
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f11d599c92c5f60800000000000000
+      internalID: 8024334581846056717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_87
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5069e088bc39640800000000000000
+      internalID: 5085632189452125676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_88
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ba1b63b13f1bcf0800000000000000
+      internalID: -238142007066645721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2532a6d355f193fc0800000000000000
+      internalID: -3514743583222914222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067eb1571ccb3bee0800000000000000
+      internalID: -1246445132772022432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecc1c8fb46126910800000000000000
+      internalID: 1829048914217651434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2bd30ebc67a21f0800000000000000
+      internalID: -1068911343534492984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c8c38f841b6ffc0800000000000000
+      internalID: -3461384336627168122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6f99997b3c0b9a0800000000000000
+      internalID: -6219255892075219275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f41d81b62a40600800000000000000
+      internalID: 433650044995981090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_96
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59c0d4cbafcc17d0800000000000000
+      internalID: -2946251719558772389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_97
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab41b9b0e7a126f0800000000000000
+      internalID: -711102682517910619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_98
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfdc5af49d04cb70800000000000000
+      internalID: 8918268095607136210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_99
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94ca4e3ddc390880800000000000000
+      internalID: -8644311088830430050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_100
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4f31048b236d440800000000000000
+      internalID: 4960207806525600970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_101
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea745343cecbfe50800000000000000
+      internalID: 6844291396763155168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_102
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefac4107602144e0800000000000000
+      internalID: -1999281132800266257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f07fa2bc1e14c00800000000000000
+      internalID: 883235264656772882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715c54e1f4269f170800000000000000
+      internalID: 8212703487436637463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d14071f0b5549b0800000000000000
+      internalID: -5096567282931065519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db081ea2bdddf8a0800000000000000
+      internalID: -6269611346735133744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfee7828998eb7ab0800000000000000
+      internalID: -5009154414501957893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f56ef3fdc02f09e0800000000000000
+      internalID: -1653066469287762441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5ab82b0fedb81c0800000000000000
+      internalID: -4500258277257665031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_110
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f1ac8cb5a985b50800000000000000
+      internalID: 6582180574403370903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_111
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c0553a10316ced0800000000000000
+      internalID: -2394205254144685040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_112
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e741afee10639940800000000000000
+      internalID: 5301686872330815465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_113
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5a982da8b8d720800000000000000
+      internalID: 2871247816298749871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_114
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c91193bab3e75590800000000000000
+      internalID: -7685423848068408890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b7d8e4a14c5620800000000000000
+      internalID: 2764156447835535368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_116
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c2aeaa5bc26c2c0800000000000000
+      internalID: -4411789626194645983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa15110a980c32940800000000000000
+      internalID: 5270267686282154410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc4785091e106c0800000000000000
+      internalID: -4178810969147519968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29214fe20f77de1b0800000000000000
+      internalID: -5625708486052277614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f672c9fc9032210800000000000000
+      internalID: 1306899104150286131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4d5201846871700800000000000000
+      internalID: 511024726796522687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60d4791929598a90800000000000000
+      internalID: -7311214487003672465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823beb920e7859ff0800000000000000
+      internalID: -29968425665252568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9ce3f2cb0a67530800000000000000
+      internalID: 3852443261368977867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_125
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb6c9efe6830a20800000000000000
+      internalID: 3027411739500526693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f466210a07b090800000000000000
+      internalID: -8018929611454484059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_127
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead96f29c726dcb0800000000000000
+      internalID: -4839637004525643026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_128
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22025652bb3e90c70800000000000000
+      internalID: 8937925328419233826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_129
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32050883f15897b40800000000000000
+      internalID: 5438524394164998179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_130
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ed35d76464898e0800000000000000
+      internalID: -1686520791885947351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f64660ed6f59b350800000000000000
+      internalID: 6032958101360363254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_132
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e525d36cfb76130800000000000000
+      internalID: 3560024888612904572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_133
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a7633226be65be0800000000000000
+      internalID: -1488743820069275135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_134
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db80df1232191d6f0800000000000000
+      internalID: -661588090166638403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_135
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f721634b7f6e200800000000000000
+      internalID: 209126786092662565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_136
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff124daeb3b88320800000000000000
+      internalID: 2560494019692077054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_137
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c628071cf22ffe0800000000000000
+      internalID: -1156809646418006940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_138
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cc99d6ef6579610800000000000000
+      internalID: 1627865441078201482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_139
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61116220ae15650c0800000000000000
+      internalID: -4587389104930025194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_140
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2697ff466e01160800000000000000
+      internalID: 6994343542763643613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a67a1f70d954bbf0800000000000000
+      internalID: -309523722361211227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47184437376a06840800000000000000
+      internalID: 5215351383280353652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_143
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78fda209d2927dc0800000000000000
+      internalID: -3642687687838795651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d805999340cdca220800000000000000
+      internalID: 2498613803988111501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94259215bc2bef7d0800000000000000
+      internalID: -2882670125160770999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e143d87da438a60800000000000000
+      internalID: 7675060479616884369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a423cdc1c8b97aeb0800000000000000
+      internalID: -4708623859310644662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ff25c4d03934c00800000000000000
+      internalID: 883711637219114834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_149
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd319d3dd765bbbd0800000000000000
+      internalID: -2613400060333321249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_150
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280a81d56f111930800000000000000
+      internalID: 4112102456933615655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_151
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a58d6a77640b13b0800000000000000
+      internalID: -5540830074067122776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_152
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c9136da401bc70800000000000000
+      internalID: 8984967874319335901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_153
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90c4f5d6177ede20800000000000000
+      internalID: 3377267710537023647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_154
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94620da552d055b0800000000000000
+      internalID: -5381570289291074402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_155
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c988805c28785200800000000000000
+      internalID: 169017117751413192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_156
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b096b88eb3b2ae0800000000000000
+      internalID: -1573097774878487688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_157
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e3b1a10ecd2b9c0800000000000000
+      internalID: -3912822271162761630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3147a03164fa9a0800000000000000
+      internalID: -6219675512781663247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b289e283d6242dbc0800000000000000
+      internalID: -3759869702039496661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69e07cda716247b0800000000000000
+      internalID: -5241519835993544342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4490a0dc26794cb0800000000000000
+      internalID: -4879238786428398516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38cf9234fa4baa60800000000000000
+      internalID: 7686319601719691323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99398112e04079b10800000000000000
+      internalID: 1988062219238675353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c39a2cb62a4680800000000000000
+      internalID: -8770154734740585482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_165
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d04205d87999160800000000000000
+      internalID: 7032818926306463041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da866f10e0b57b220800000000000000
+      internalID: 2501568233748195501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_167
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c15988157b9c70800000000000000
+      internalID: 8978899030336718889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_168
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505af36c2360f61d0800000000000000
+      internalID: -3355456382223538939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_169
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d25fbe967344dd00800000000000000
+      internalID: 996495594304262866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_170
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b98f7b42cc5e0f0800000000000000
+      internalID: -1088239276862694533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_171
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766919f333e7e1830800000000000000
+      internalID: 4043808274000221799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_172
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353964e7993df77e0800000000000000
+      internalID: -1765459872703933613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_173
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66d4dad7d7185110800000000000000
+      internalID: 1249775112452101741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_174
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0a10b6d4e5540d0800000000000000
+      internalID: -3439239053826744092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_175
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18723e07aa998710800000000000000
+      internalID: 1696056776970106909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_176
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9221be54609c7cff0800000000000000
+      internalID: -15823044892487127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_177
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d57fa4202dc1d0800000000000000
+      internalID: -3328969207622281045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_178
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca8d1fe8b848bf0800000000000000
+      internalID: -322979827204707326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_179
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c79e78f26f5eb0800000000000000
+      internalID: -4728952264300445026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_180
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f152f55fba4a3e0800000000000000
+      internalID: -2043319260567756900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ef879929b91db60800000000000000
+      internalID: 7769161886133190298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90786100a6af80290800000000000000
+      internalID: -7923808211183433975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c66789f105333ea0800000000000000
+      internalID: -5894309204700207419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d6f681720b9dfe0800000000000000
+      internalID: -1163705346738393700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bac467aedafa85a0800000000000000
+      internalID: -6518121676467287372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d55069a848260fb0800000000000000
+      internalID: -4682010470060632617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0267a74495a834030800000000000000
+      internalID: 3477775453265753632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91309923e312f2b70800000000000000
+      internalID: 8876349941591114521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0000efafe0db437c0800000000000000
+      internalID: -4092438289334796288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708249e4ab44c1f30800000000000000
+      internalID: 4547585290710296583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b234b9e9f2e2f90800000000000000
+      internalID: -6976586414494110921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_192
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60c952a25fcae770800000000000000
+      internalID: 8640946788881776747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_193
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e011b281e8c6dae80800000000000000
+      internalID: -8165751191806209778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_194
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504162db33239fe50800000000000000
+      internalID: 6843556306564289541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_195
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d738a4ee1b826c70800000000000000
+      internalID: 8962879173222217681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28de8bcfd177e2200800000000000000
+      internalID: 157194007682280834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32b897d0412a1bf0800000000000000
+      internalID: -352933058416430533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1601fc7a7c740b390800000000000000
+      internalID: -7804659231393640351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f21ceb4cd4b5ea0800000000000000
+      internalID: -5883022980820160669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa45dc4b7e8cc100800000000000000
+      internalID: 129635149508070142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef985c0a248f530800000000000000
+      internalID: 3888931536510779019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_202
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2fc4e11f9cf3000800000000000000
+      internalID: 17954960965432036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c27c5bd4406350800000000000000
+      internalID: 6007877611851793170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_204
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806ba5f6a4d6f06a0800000000000000
+      internalID: -6480841172299631096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_205
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3d9f51ff9990480800000000000000
+      internalID: -8932439065048263729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_206
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828438826c666fc50800000000000000
+      internalID: 6698654497029441576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_207
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ee1d5a07d0917c0800000000000000
+      internalID: -4100231208274629102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_208
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af3ac14f56a34790800000000000000
+      internalID: -7547005622486941786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_209
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e294e2d9fb4e9310800000000000000
+      internalID: 1413650869398049511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f326f190b022bd40800000000000000
+      internalID: 5598573229510108152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e6e7d2429f1db50800000000000000
+      internalID: 6616343261361368706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e690fb8ceb884bd0800000000000000
+      internalID: -2645710933003823386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_213
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83031bac70a8cd620800000000000000
+      internalID: 2800264834387619896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_214
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b00d8cc56017f70800000000000000
+      internalID: 9183128110760987516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_215
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033cb71cc24ce1a70800000000000000
+      internalID: 8799686418432246576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d698156bcc67a60800000000000000
+      internalID: 7671544098696293683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_217
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60274445f9765ac60800000000000000
+      internalID: 7828777461264708102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_218
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191541634b05de0d0800000000000000
+      internalID: -3391966209408478831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_219
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425c6a3d57fea9c40800000000000000
+      internalID: 5519987582637098276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_220
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d809109a8f32cee90800000000000000
+      internalID: -6995176570318909299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_221
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92208afca5ac800800000000000000
+      internalID: 633418545522420188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863d2460f80bf7950800000000000000
+      internalID: 6449067319749694312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_223
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3524e7b30b704c00800000000000000
+      internalID: 882840782864917821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceec9ae6f941bea0800000000000000
+      internalID: -5858820315385368895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_225
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aee3a6f524c40e0800000000000000
+      internalID: -2284377933411849581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_226
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f5534335663eb40800000000000000
+      internalID: 5468326880102145848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_227
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0b9c323020f1a00800000000000000
+      internalID: 729303877165887698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79bfeb02f5649060800000000000000
+      internalID: 6959299414451009917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_229
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd3b6144d8b55180800000000000000
+      internalID: -9127185848026317360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_230
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bdcc47568df1870800000000000000
+      internalID: 8655874939092261727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_231
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e0a2888aa90610800000000000000
+      internalID: 1587987846908668065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_232
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c6ff8803f4a830800000000000000
+      internalID: 4081654380405114507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_233
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997cbbf0e8aeb9d40800000000000000
+      internalID: 5592321258180822937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ff8d8d230cfcd0800000000000000
+      internalID: -2523138197050885955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_235
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9783b080a9fe0b100800000000000000
+      internalID: 121860634777958521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061baa2fac0b43c10800000000000000
+      internalID: 2032443717552091488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_237
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cdd0f81570c4970800000000000000
+      internalID: 8740369023693085832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_238
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ad1bccf80281af0800000000000000
+      internalID: -425554362799891876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_239
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dec3f5caa5a3e50800000000000000
+      internalID: 6789839084593147278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_240
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf70d20d47c2d620800000000000000
+      internalID: 2797517452124127166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_241
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c41461a2bfce74a0800000000000000
+      internalID: -6593604438305008440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_242
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cdb2214db7e2dd0800000000000000
+      internalID: -2508931791630640030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_243
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26b38c67544f9ac0800000000000000
+      internalID: -3846280414477699540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_244
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97013c308883d8810800000000000000
+      internalID: 1769132385456296057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_245
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788baea027efcfb80800000000000000
+      internalID: -8359527042543601529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_246
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b568d7995806430800000000000000
+      internalID: 3774163382018923337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_247
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459744b01f11ce760800000000000000
+      internalID: 7488380007384119636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_248
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a895a39dbce5f980800000000000000
+      internalID: -8505632022249236316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZRPGcastle_249
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0547213da8c54f9f0800000000000000
+      internalID: -435621512631651248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
