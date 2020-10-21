@@ -8,9 +8,6 @@ public class PlayerAttack : MonoBehaviour
     private GameObject arrowPrefab;
 
     [SerializeField]
-    private float atkSpeed, atkDirection;
-
-    [SerializeField]
     private Transform[] exitPoints;
 
     private PlayerMovement playerMovement;
@@ -18,6 +15,8 @@ public class PlayerAttack : MonoBehaviour
     private Transform target;
 
     private bool isAttacking = false;
+
+    public bool IsAttacking { get => isAttacking; set => isAttacking = value; }
 
     private void Start()
     {
@@ -33,7 +32,7 @@ public class PlayerAttack : MonoBehaviour
             RaycastHit2D hit = Physics2D.Raycast(ray, Vector2.zero);
             if (hit.transform != null)
             {
-                if (hit.transform.tag == "Enemy" && !isAttacking)
+                if (hit.transform.tag == "Enemy" && !IsAttacking)
                 {
                     target = hit.transform;
                     StartCoroutine(Attack());
@@ -46,15 +45,13 @@ public class PlayerAttack : MonoBehaviour
 
     private IEnumerator Attack()
     {
-        isAttacking = true;
+        IsAttacking = true;
         anim.SetBool("IsAttacking", true);
 
-        GameObject arrow = Instantiate(arrowPrefab, transform.position, Quaternion.identity);
-        arrow.GetComponent<Rigidbody2D>().velocity = new Vector2(atkSpeed, atkDirection);
+        Instantiate(arrowPrefab, transform.position, Quaternion.identity);
 
         yield return new WaitForSeconds(1);
 
-        Destroy(arrow);
         StopAttack();
     }
 
@@ -62,7 +59,7 @@ public class PlayerAttack : MonoBehaviour
 
     private void StopAttack()
     {
-        isAttacking = false;
+        IsAttacking = false;
         anim.SetBool("IsAttacking", false);
     }
 }

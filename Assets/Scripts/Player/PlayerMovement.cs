@@ -17,10 +17,13 @@ public class PlayerMovement : MonoBehaviour
 
     private Animator anim;
 
+    private PlayerAttack playerAttack;
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        playerAttack = GetComponent<PlayerAttack>();
     }
 
     private void Update()
@@ -30,7 +33,7 @@ public class PlayerMovement : MonoBehaviour
             SetTargetPosition();
         }
 
-        if (isMoving)
+        if (isMoving && !playerAttack.IsAttacking)
         {
             OnClickMoving();
         }
