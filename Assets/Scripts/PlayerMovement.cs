@@ -5,19 +5,17 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField]
-    public float moveSpeed = 3;
+    private float moveSpeed = 3;
 
-    [SerializeField]
-    public int facingIndex = 2;
-
-    public Rigidbody2D rb;
+    public int facingIndex = 0;
 
     private Vector3 targetPosition;
 
     private bool isMoving = false;
 
-    [SerializeField]
-    public Animator anim;
+    private Rigidbody2D rb;
+
+    private Animator anim;
 
     private void Start()
     {
@@ -31,9 +29,14 @@ public class PlayerMovement : MonoBehaviour
         {
             SetTargetPosition();
         }
+
         if (isMoving)
         {
             OnClickMoving();
+        }
+        else
+        {
+            anim.SetBool("IsMoving", false);
         }
     }
 
@@ -41,8 +44,17 @@ public class PlayerMovement : MonoBehaviour
     {
         targetPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         targetPosition.z = transform.position.z;
-
         isMoving = true;
+
+        //RaycastHit2D hit = Physics2D.Raycast(targetPosition, Vector2.zero);
+        //if (hit.transform != null)
+        //{
+        //    if (hit.transform.tag == "Ground")
+        //    {
+        //        targetPosition.z = transform.position.z;
+        //        isMoving = true;
+        //    }
+        //}
     }
 
     void OnClickMoving()
@@ -50,31 +62,42 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("IsMoving", true);
         transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
 
-        if (Mathf.Round(targetPosition.x) > Mathf.Round(transform.position.x))
+        if (Mathf.Round(targetPosition.x) > Mathf.Round(transform.position.x)) //Right
         {
             anim.SetFloat("MoveX", 1);
             anim.SetFloat("MoveY", 0);
+            facingIndex = 3;
         }
-        if (Mathf.Round(targetPosition.x) < Mathf.Round(transform.position.x))
+        if (Mathf.Round(targetPosition.x) < Mathf.Round(transform.position.x)) //Left
         {
             anim.SetFloat("MoveX", -1);
             anim.SetFloat("MoveY", 0);
+            facingIndex = 2;
         }
-        if (Mathf.Round(targetPosition.y) > Mathf.Round(transform.position.y))
+        if (Mathf.Round(targetPosition.y) > Mathf.Round(transform.position.y)) //Up
         {
             anim.SetFloat("MoveY", 1);
             anim.SetFloat("MoveX", 0);
+            facingIndex = 1;
         }
-        if (Mathf.Round(targetPosition.y) < Mathf.Round(transform.position.y))
+        if (Mathf.Round(targetPosition.y) < Mathf.Round(transform.position.y)) //Down
         {
             anim.SetFloat("MoveY", -1);
             anim.SetFloat("MoveX", 0);
+            facingIndex = 0;
         }
 
         if (transform.position == targetPosition)
         {
             isMoving = false;
-            anim.SetBool("IsMoving", false);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.transform.tag == "Environment")
+        {
+            isMoving = false;
         }
     }
 }
