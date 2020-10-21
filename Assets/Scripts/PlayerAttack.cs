@@ -33,14 +33,14 @@ public class PlayerAttack : MonoBehaviour
             RaycastHit2D hit = Physics2D.Raycast(ray, Vector2.zero);
             if (hit.transform != null)
             {
-                if (hit.transform.tag == "Enemy")
+                if (hit.transform.tag == "Enemy" && !isAttacking)
                 {
                     target = hit.transform;
                     StartCoroutine(Attack());
                 }
-
-                target = null;
             }
+
+            target = null;
         }
     }
 
@@ -52,7 +52,7 @@ public class PlayerAttack : MonoBehaviour
         GameObject arrow = Instantiate(arrowPrefab, transform.position, Quaternion.identity);
         arrow.GetComponent<Rigidbody2D>().velocity = new Vector2(atkSpeed, atkDirection);
 
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(1);
 
         Destroy(arrow);
         StopAttack();
