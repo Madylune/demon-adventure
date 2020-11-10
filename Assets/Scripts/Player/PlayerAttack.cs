@@ -10,6 +10,9 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField]
     private Transform[] exitPoints;
 
+    [SerializeField]
+    private float minAtk = 30f, maxAtk = 50f;
+
     private PlayerMovement playerMovement;
     private Animator anim;
     private Transform target;
@@ -17,6 +20,7 @@ public class PlayerAttack : MonoBehaviour
     private bool isAttacking = false;
 
     public bool IsAttacking { get => isAttacking; set => isAttacking = value; }
+    public Transform MyTarget { get => target; set => target = value; }
 
     private void Start()
     {
@@ -34,12 +38,15 @@ public class PlayerAttack : MonoBehaviour
             {
                 if (hit.transform.tag == "Enemy" && !IsAttacking)
                 {
-                    target = hit.transform;
+                    MyTarget = hit.transform;
                     StartCoroutine(Attack());
                 }
             }
+        }
 
-            target = null;
+        if (Input.GetMouseButtonUp(1))
+        {
+            MyTarget = null;
         }
     }
 

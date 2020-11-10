@@ -14,7 +14,7 @@ public class Arrow : MonoBehaviour
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        target = GameObject.Find("Demon").transform;
+        target = PlayerScript.MyInstance.MyAttack.MyTarget;
 
         Destroy(gameObject, 1f);
     }

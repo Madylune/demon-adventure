@@ -191,6 +191,7 @@ GameObject:
   - component: {fileID: 4188832359456115304}
   - component: {fileID: 4188832359098785843}
   - component: {fileID: 4188832359098785842}
+  - component: {fileID: 6740448328842883407}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -360,13 +361,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   arrowPrefab: {fileID: 8510895675743006441, guid: 51bff84d39a2b47549c8f99b30d9ed6e,
     type: 3}
-  atkSpeed: 10
-  atkDirection: 1
   exitPoints:
   - {fileID: 4188832359779629478}
   - {fileID: 4188832358476739234}
   - {fileID: 4188832359547159341}
   - {fileID: 4188832358323152065}
+  minAtk: 30
+  maxAtk: 50
+--- !u!114 &6740448328842883407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4188832359461132522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f0b240ad420744b690facb985a7b6d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4188832359547159330
 GameObject:
   m_ObjectHideFlags: 0
