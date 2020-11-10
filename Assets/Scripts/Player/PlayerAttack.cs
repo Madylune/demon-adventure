@@ -26,7 +26,7 @@ public class PlayerAttack : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(1))
+        if (Input.GetMouseButton(1)) // Mouse still down
         {
             Vector3 ray = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             RaycastHit2D hit = Physics2D.Raycast(ray, Vector2.zero);
@@ -54,8 +54,6 @@ public class PlayerAttack : MonoBehaviour
 
         StopAttack();
     }
-
-
 
     private void StopAttack()
     {
