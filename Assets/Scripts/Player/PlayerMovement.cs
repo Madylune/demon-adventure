@@ -30,7 +30,12 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            SetTargetPosition();
+            SetTargetPosition(true);
+        }
+
+        if (Input.GetMouseButtonDown(1))
+        {
+            SetTargetPosition(false);
         }
 
         if (isMoving && !playerAttack.IsAttacking)
@@ -43,12 +48,22 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    void SetTargetPosition()
+    void SetTargetPosition(bool moving)
     {
         targetPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         targetPosition.z = transform.position.z;
-        isMoving = true;
 
+        if (moving)
+        {
+            isMoving = true;
+        }
+        else
+        {
+            SetFacing();
+            isMoving = false;
+        }
+
+        // TO TEST WITHOUT ENVIRONEMENT
         //RaycastHit2D hit = Physics2D.Raycast(targetPosition, Vector2.zero);
         //if (hit.transform != null)
         //{
@@ -60,11 +75,8 @@ public class PlayerMovement : MonoBehaviour
         //}
     }
 
-    void OnClickMoving()
+    void SetFacing()
     {
-        anim.SetBool("IsMoving", true);
-        transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
-
         if (Mathf.Round(targetPosition.x) > Mathf.Round(transform.position.x)) //Right
         {
             anim.SetFloat("MoveX", 1);
@@ -89,6 +101,14 @@ public class PlayerMovement : MonoBehaviour
             anim.SetFloat("MoveX", 0);
             facingIndex = 0;
         }
+    }
+
+    void OnClickMoving()
+    {
+        anim.SetBool("IsMoving", true);
+        transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
+
+        SetFacing();
 
         if (transform.position == targetPosition)
         {
