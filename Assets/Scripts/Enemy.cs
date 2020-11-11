@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Enemy : MonoBehaviour
 {
@@ -8,13 +9,17 @@ public class Enemy : MonoBehaviour
     private string title;
 
     [SerializeField]
-    private float minAtk, maxAtk, currentHealth, maxHealth = 1000;
+    private float level, minAtk, maxAtk, currentHealth, maxHealth = 1000;
 
     [SerializeField]
     private HealthBar healthBar;
 
+    [SerializeField]
+    private Text titleText;
+
     void Start()
     {
+        titleText.text = title + " (" + level + ")";
         currentHealth = maxHealth;
         healthBar.Initialize(currentHealth, maxHealth);
     }
