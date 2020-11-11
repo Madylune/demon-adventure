@@ -34,7 +34,9 @@ public class Enemy : MonoBehaviour
         else
         {
             currentHealth -= amount;
-            CombatTextManager.MyInstance.CreateText(transform.position, amount.ToString(), CombatTextType.DAMAGE, false);
+
+            bool critChance = Random.Range(0, 5) < 1 ? true : false;
+            CombatTextManager.MyInstance.CreateText(transform.position, amount.ToString(), CombatTextType.HIT, critChance);
         }
         healthBar.SetHealth(currentHealth);
     }

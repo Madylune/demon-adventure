@@ -61,7 +61,7 @@ public class CombatTextManager : MonoBehaviour
 
         if (crit)
         {
-            txt.GetComponent<Animator>().SetBool("Crit", crit);
+            txt.GetComponent<Animator>().SetBool("IsCrit", crit);
         }
     }
 }
