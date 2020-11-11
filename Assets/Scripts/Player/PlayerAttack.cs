@@ -11,7 +11,7 @@ public class PlayerAttack : MonoBehaviour
     private Transform[] exitPoints;
 
     [SerializeField]
-    private float minAtk = 30f, maxAtk = 50f;
+    private float minAtk, maxAtk;
 
     private PlayerMovement playerMovement;
     private Animator anim;

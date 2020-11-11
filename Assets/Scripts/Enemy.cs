@@ -34,7 +34,7 @@ public class Enemy : MonoBehaviour
         else
         {
             currentHealth -= amount;
-            //CombatTextManager.MyInstance.CreateText(transform.position, amount.ToString(), CombatTextType.DAMAGE, false);
+            CombatTextManager.MyInstance.CreateText(transform.position, amount.ToString(), CombatTextType.DAMAGE, false);
         }
         healthBar.SetHealth(currentHealth);
     }
