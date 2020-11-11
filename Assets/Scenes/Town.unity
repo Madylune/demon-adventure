@@ -40078,6 +40078,16 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 9074185588491361920, guid: d81825b1694e64a129e769b88b255aab,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 9074185588491361920, guid: d81825b1694e64a129e769b88b255aab,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 17
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d81825b1694e64a129e769b88b255aab, type: 3}
 --- !u!114 &1573712661068543520 stripped
@@ -40099,6 +40109,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3879247621801984368, guid: 79bf91688f9e146469e4e494f61bc247,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3879247621801984368, guid: 79bf91688f9e146469e4e494f61bc247,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4188832359098785842, guid: 79bf91688f9e146469e4e494f61bc247,
         type: 3}
       propertyPath: atk
@@ -40173,6 +40193,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6740448328842883407, guid: 79bf91688f9e146469e4e494f61bc247,
+        type: 3}
+      propertyPath: maxHealth
+      value: 1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 79bf91688f9e146469e4e494f61bc247, type: 3}
