@@ -34,6 +34,7 @@ public class Arrow : MonoBehaviour
     {
         if (collision.tag == "Enemy")
         {
+            collision.GetComponent<Enemy>().TakeDamage(Mathf.Floor(Random.Range(PlayerScript.MyInstance.MyAttack.MyMinAtk, PlayerScript.MyInstance.MyAttack.MyMaxAtk)));
             Destroy(gameObject);
         }
     }

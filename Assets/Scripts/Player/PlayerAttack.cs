@@ -21,6 +21,8 @@ public class PlayerAttack : MonoBehaviour
 
     public bool IsAttacking { get => isAttacking; set => isAttacking = value; }
     public Transform MyTarget { get => target; set => target = value; }
+    public float MyMinAtk { get => minAtk; set => minAtk = value; }
+    public float MyMaxAtk { get => maxAtk; set => maxAtk = value; }
 
     private void Start()
     {

@@ -39804,6 +39804,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 373269122060181429, guid: d81825b1694e64a129e769b88b255aab,
+        type: 3}
+      propertyPath: healthBar
+      value: 
+      objectReference: {fileID: 1573712661068543520}
+    - target: {fileID: 373269122060181429, guid: d81825b1694e64a129e769b88b255aab,
+        type: 3}
+      propertyPath: maxHealth
+      value: 1000
+      objectReference: {fileID: 0}
     - target: {fileID: 1573712661235676921, guid: d81825b1694e64a129e769b88b255aab,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -39864,13 +39874,30 @@ PrefabInstance:
       propertyPath: m_Name
       value: Demon
       objectReference: {fileID: 0}
-    - target: {fileID: 1573712661235676924, guid: d81825b1694e64a129e769b88b255aab,
+    - target: {fileID: 8830231456311727948, guid: d81825b1694e64a129e769b88b255aab,
         type: 3}
-      propertyPath: m_TagString
-      value: Enemy
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8830231456311727948, guid: d81825b1694e64a129e769b88b255aab,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d81825b1694e64a129e769b88b255aab, type: 3}
+--- !u!114 &1573712661068543520 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 567802998595077275, guid: d81825b1694e64a129e769b88b255aab,
+    type: 3}
+  m_PrefabInstance: {fileID: 1573712661068543519}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f42436e15191f4dcca7558e7265a1c93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &4188832358147350069
 PrefabInstance:
   m_ObjectHideFlags: 0
