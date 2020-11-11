@@ -56,23 +56,23 @@ public class PlayerMovement : MonoBehaviour
         if (moving)
         {
             isMoving = true;
+            // TO TEST WITHOUT ENVIRONEMENT
+            //RaycastHit2D hit = Physics2D.Raycast(targetPosition, Vector2.zero);
+            //if (hit.transform != null)
+            //{
+            //    if (hit.transform.tag == "Ground")
+            //    {
+            //        //targetPosition.z = transform.position.z;
+            //        Debug.Log("ici");
+            //        isMoving = true;
+            //    }
+            //}
         }
         else
         {
             SetFacing();
             isMoving = false;
         }
-
-        // TO TEST WITHOUT ENVIRONEMENT
-        //RaycastHit2D hit = Physics2D.Raycast(targetPosition, Vector2.zero);
-        //if (hit.transform != null)
-        //{
-        //    if (hit.transform.tag == "Ground")
-        //    {
-        //        targetPosition.z = transform.position.z;
-        //        isMoving = true;
-        //    }
-        //}
     }
 
     void SetFacing()
