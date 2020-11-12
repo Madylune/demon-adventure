@@ -19,11 +19,16 @@ public class Item
     {
         switch (itemType)
         {
+            case ItemType.Arrow:
+                return ItemsManager.MyInstance.arrowSprite;
+            case ItemType.HealthPotion:
+                return ItemsManager.MyInstance.healthPotionSprite;
+            case ItemType.ManaPotion:
+                return ItemsManager.MyInstance.manaPotionSprite;
+            case ItemType.Coin:
+                return ItemsManager.MyInstance.coinSprite;
             default:
-            case ItemType.Arrow:            return ItemAssets.MyInstance.arrowSprite;
-            case ItemType.HealthPotion:     return ItemAssets.MyInstance.healthPotionSprite;
-            case ItemType.ManaPotion:       return ItemAssets.MyInstance.manaPotionSprite;
-            case ItemType.Coin:             return ItemAssets.MyInstance.coinSprite;
+                return null;
         }
     }
 
@@ -31,12 +36,27 @@ public class Item
     {
         switch (itemType)
         {
-            default:
             case ItemType.Arrow: 
             case ItemType.HealthPotion: 
             case ItemType.ManaPotion: 
             case ItemType.Coin:
-                return true; 
+                return true;
+            default:
+                return false;
+        }
+    }
+
+    public bool IsUseable()
+    {
+        switch (itemType)
+        {
+            case ItemType.HealthPotion:
+            case ItemType.ManaPotion:
+                return true;
+            case ItemType.Arrow:
+            case ItemType.Coin:
+            default:
+                return false;
         }
     }
 }

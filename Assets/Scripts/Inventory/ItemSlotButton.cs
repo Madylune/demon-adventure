@@ -16,7 +16,7 @@ public class ItemSlotButton : MonoBehaviour, IPointerClickHandler
     {
         if (eventData.button == PointerEventData.InputButton.Left)
         {
-            Debug.Log("Use item " + item.itemType);
+            PlayerScript.MyInstance.MyInventory.UseItem(item);
         }
         if (eventData.button == PointerEventData.InputButton.Right)
         {

@@ -39,8 +39,10 @@ public class UI_Inventory : MonoBehaviour
             {
                 GameObject slot = Instantiate(itemSlot, itemsContainer).gameObject;
                 slot.GetComponent<ItemSlotButton>().GetItem(item);
+
                 Image icon = slot.transform.Find("Icon").GetComponent<Image>();
                 icon.sprite = item.GetSprite();
+
                 Text count = slot.transform.Find("Count").GetComponent<Text>();
                 count.text = item.amount.ToString();
             }

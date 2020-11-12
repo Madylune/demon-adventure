@@ -35,7 +35,7 @@ public class PlayerScript : MonoBehaviour
 
     private void Awake()
     {
-        MyInventory = new Inventory();
+        MyInventory = new Inventory(UseItem);
         uiInventory.SetInventory(MyInventory);
     }
 
@@ -98,8 +98,26 @@ public class PlayerScript : MonoBehaviour
         CombatTextManager.MyInstance.CreateText(transform.position, amount.ToString(), CombatTextType.HEAL, false);
     }
 
+    public void RecoverMana(int amount)
+    {
+        CombatTextManager.MyInstance.CreateText(transform.position, amount.ToString(), CombatTextType.MP, false);
+    }
+
     public void Die()
     {
 
+    }
+
+    private void UseItem(Item item)
+    {
+        switch (item.itemType)
+        {
+            case Item.ItemType.HealthPotion:
+                Heal(100);
+                break;
+            case Item.ItemType.ManaPotion:
+                RecoverMana(50);
+                break;
+        }
     }
 }
