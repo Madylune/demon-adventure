@@ -38,6 +38,7 @@ public class UI_Inventory : MonoBehaviour
             foreach (Item item in inventory.GetItemList())
             {
                 GameObject slot = Instantiate(itemSlot, itemsContainer).gameObject;
+                slot.GetComponent<ItemSlotButton>().GetItem(item);
                 Image icon = slot.transform.Find("Icon").GetComponent<Image>();
                 icon.sprite = item.GetSprite();
                 Text count = slot.transform.Find("Count").GetComponent<Text>();

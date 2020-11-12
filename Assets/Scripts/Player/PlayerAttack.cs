@@ -16,6 +16,8 @@ public class PlayerAttack : MonoBehaviour
     private PlayerMovement playerMovement;
     private Animator anim;
     private Transform target;
+    private int facingIndex = 0;
+    private Vector3 clickPosition;
 
     private bool isAttacking = false;
 
@@ -32,6 +34,11 @@ public class PlayerAttack : MonoBehaviour
 
     private void Update()
     {
+        if (Input.GetMouseButtonDown(1))
+        {
+            SetClickPosition();
+        }
+
         if (Input.GetMouseButton(1)) // Mouse still down
         {
             Vector3 ray = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -56,7 +63,6 @@ public class PlayerAttack : MonoBehaviour
     {
         IsAttacking = true;
         anim.SetBool("IsAttacking", true);
-
         Instantiate(arrowPrefab, transform.position, Quaternion.identity);
 
         yield return new WaitForSeconds(1);
@@ -68,5 +74,42 @@ public class PlayerAttack : MonoBehaviour
     {
         IsAttacking = false;
         anim.SetBool("IsAttacking", false);
+    }
+
+
+    private void SetClickPosition()
+    {
+        clickPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        clickPosition.z = transform.position.z;
+
+        SetFacing();
+    }
+
+    private void SetFacing()
+    {
+        if (Mathf.Round(clickPosition.x) > Mathf.Round(transform.position.x)) //Right
+        {
+            anim.SetFloat("MoveX", 1);
+            anim.SetFloat("MoveY", 0);
+            facingIndex = 3;
+        }
+        if (Mathf.Round(clickPosition.x) < Mathf.Round(transform.position.x)) //Left
+        {
+            anim.SetFloat("MoveX", -1);
+            anim.SetFloat("MoveY", 0);
+            facingIndex = 2;
+        }
+        if (Mathf.Round(clickPosition.y) > Mathf.Round(transform.position.y)) //Up
+        {
+            anim.SetFloat("MoveY", 1);
+            anim.SetFloat("MoveX", 0);
+            facingIndex = 1;
+        }
+        if (Mathf.Round(clickPosition.y) < Mathf.Round(transform.position.y)) //Down
+        {
+            anim.SetFloat("MoveY", -1);
+            anim.SetFloat("MoveX", 0);
+            facingIndex = 0;
+        }
     }
 }

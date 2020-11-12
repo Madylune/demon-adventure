@@ -31,11 +31,12 @@ public class PlayerScript : MonoBehaviour
 
     public PlayerMovement MyMovement { get => movement; set => movement = value; }
     public PlayerAttack MyAttack { get => attack; set => attack = value; }
+    public Inventory MyInventory { get => inventory; set => inventory = value; }
 
     private void Awake()
     {
-        inventory = new Inventory();
-        uiInventory.SetInventory(inventory);
+        MyInventory = new Inventory();
+        uiInventory.SetInventory(MyInventory);
     }
 
     private void Start()
@@ -59,11 +60,11 @@ public class PlayerScript : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.I))
         {
-            inventory.AddItem(new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
+            MyInventory.AddItem(new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
         }
         if (Input.GetKeyDown(KeyCode.U))
         {
-            inventory.AddItem(new Item { itemType = Item.ItemType.Coin, amount = 1 });
+            MyInventory.AddItem(new Item { itemType = Item.ItemType.Coin, amount = 1 });
         }
     }
 
