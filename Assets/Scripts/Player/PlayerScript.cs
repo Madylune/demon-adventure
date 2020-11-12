@@ -5,20 +5,15 @@ using UnityEngine.UI;
 
 public class PlayerScript : MonoBehaviour
 {
-    [SerializeField]
-    private string username;
-
-    [SerializeField]
-    private float currentHealth, maxHealth;
-
-    [SerializeField]
-    private HealthBar healthBar;
-
-    [SerializeField]
-    private Text usernameText;
+    [SerializeField] private string username;
+    [SerializeField] private float currentHealth, maxHealth;
+    [SerializeField] private HealthBar healthBar;
+    [SerializeField] private Text usernameText;
+    [SerializeField] private UI_Inventory uiInventory;
 
     private PlayerMovement movement;
     private PlayerAttack attack;
+    private Inventory inventory;
 
     private static PlayerScript instance;
 
@@ -36,6 +31,12 @@ public class PlayerScript : MonoBehaviour
 
     public PlayerMovement MyMovement { get => movement; set => movement = value; }
     public PlayerAttack MyAttack { get => attack; set => attack = value; }
+
+    private void Awake()
+    {
+        inventory = new Inventory();
+        uiInventory.SetInventory(inventory);
+    }
 
     private void Start()
     {
@@ -55,6 +56,14 @@ public class PlayerScript : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.M))
         {
             Heal(100);
+        }
+        if (Input.GetKeyDown(KeyCode.I))
+        {
+            inventory.AddItem(new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
+        }
+        if (Input.GetKeyDown(KeyCode.U))
+        {
+            inventory.AddItem(new Item { itemType = Item.ItemType.Coin, amount = 1 });
         }
     }
 
