@@ -43,6 +43,7 @@ public class Enemy : MonoBehaviour
 
     private void Die()
     {
+        LootManager.MyInstance.InstantiateRelic(transform);
         Destroy(gameObject);
     }
 }

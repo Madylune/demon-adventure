@@ -6,7 +6,6 @@ using UnityEngine.EventSystems;
 public class Loot : MonoBehaviour
 {
     [SerializeField] private float range;
-    private bool isClickable = false;
 
     private void Update()
     {
