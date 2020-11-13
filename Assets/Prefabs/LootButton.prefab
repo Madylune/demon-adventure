@@ -11,8 +11,9 @@ GameObject:
   - component: {fileID: 1581280869683650342}
   - component: {fileID: 1581280869683650336}
   - component: {fileID: 1581280869683650343}
+  - component: {fileID: 862311776450271861}
   m_Layer: 5
-  m_Name: LootItem
+  m_Name: LootButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77,6 +78,20 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &862311776450271861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1581280869683650341}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef6187698c43438490b30e95b6b25c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  icon: {fileID: 1581280870798676312}
+  title: {fileID: 1581280870515137547}
 --- !u!1 &1581280870515137545
 GameObject:
   m_ObjectHideFlags: 0
@@ -111,8 +126,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 14.55, y: 0}
-  m_SizeDelta: {x: 90.89975, y: 30}
+  m_AnchoredPosition: {x: 15.86, y: 0}
+  m_SizeDelta: {x: 88.28232, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1581280870515137540
 CanvasRenderer:
