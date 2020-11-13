@@ -22,13 +22,17 @@ public class LootManager : MonoBehaviour
     [SerializeField] private GameObject lootWindow;
     [SerializeField] private Transform mainCanvas;
 
+    private LootTable lootTable;
+
     public void InstantiateRelic(Transform corpse)
     {
+        lootTable = corpse.gameObject.GetComponent<LootTable>();
         Instantiate(relicPrefab, corpse.position, corpse.rotation);
     }
 
     public void PopWindow()
     {
-        Instantiate(lootWindow, mainCanvas);
+        UI_Loot lootUI = Instantiate(lootWindow, mainCanvas).GetComponent<UI_Loot>();
+        lootUI.MyLoots = lootTable.GetLoots();
     }
 }

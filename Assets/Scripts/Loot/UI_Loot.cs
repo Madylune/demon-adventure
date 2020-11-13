@@ -7,12 +7,14 @@ public class UI_Loot : MonoBehaviour
     [SerializeField] private LootButton lootButtonPrefab;
     [SerializeField] private Transform lootsContainer;
 
-    float MAX_LOOTS = 4;
+    public List<Item> MyLoots { get; set; }
 
     private void Start()
     {
-        AddLoot(new Item { itemType = Item.ItemType.Arrow, amount = 1 });
-        AddLoot(new Item { itemType = Item.ItemType.Coin, amount = 10 });
+        foreach (Item item in MyLoots)
+        {
+            AddLoot(new Item { itemType = item.itemType, amount = item.amount });
+        }
     }
 
     private void Update()
